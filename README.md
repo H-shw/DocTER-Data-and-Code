@@ -39,21 +39,18 @@ We also use [EasyEdit](https://github.com/zjunlp/EasyEdit/) for MEMIT implementa
 
 # DocTER Dataset
 
-Dataset are available at [here] (https://github.com/H-shw/DocTER-Data-and-Code/tree/main/data). 
+Dataset are available at [here](https://github.com/H-shw/DocTER-Data-and-Code/tree/main/data). 
 
 ```bash
 #  structure 
-Data structure.
-```bash
-#  structure 
 ├─ docs
-   ├─ edit_sucess_doc.json # Documents data for evaluating Edit Sucess, Locality and Reasoning.
+   ├─ edit_sucess_doc.json # Documents data for evaluating Edit Success, Locality, and Reasoning.
    ├─ cross_lingual_en_doc.json # Documents data for evaluating Cross-lingual Editing (en->zh).
    ├─ cross_lingual_zh_doc.json # Documents data for evaluating Cross-lingual Editing (zh->en).
 ├─ test_data   # Test data for evaluation
-   ├─ edit_success_eval.json  # Test data for evaluating Edit Sucess perspective.
+   ├─ edit_success_eval.json  # Test data for evaluating Edit Success perspective.
    ├─ locality_eval.json  # Test data for evaluating Locality perspective.
-   ├─ reasoning_eval.json  # Test data for evaluating Reasoning perspective.
+   ├─ reasoning_eval.json  # Test data for evaluating the Reasoning perspective.
    ├─ cross_zh_eval.json  # Test data for evaluating Cross-lingual Editing (en->zh) perspective.
    ├─ cross_en_eval.json  # Test data for evaluating Cross-lingual Editing (zh->en) perspective.
 ```
@@ -61,12 +58,10 @@ Data structure.
 # Evaluation
 See `scripts/`
 ```bash
-#  structure 
-Data structure.
-```bash
-#  structure 
-├─ scripts   # Test data for evaluation
-   ├─ eval_base.json  # script to evaluate base model or edited model (input the model path).
+#  structure
+├─ methods # Method implementation.
+├─ scripts   # Test data for evaluation.
+   ├─ eval_base.sh  # script to evaluate base model or edited model (input the model path).
    ├─ run_finetune.sh  # Training script for FT.
    ├─ run_ike.sh  # Script for IKE.
    ├─ run_memit.sh  # Script for MEMIT.
