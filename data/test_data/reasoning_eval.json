@@ -1,0 +1,3502 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "src": "Is the mother tongue of Danielle Darrieux the official language of England?",
+            "additional_info": "Tthe official language of England is English.",
+            "label": "True"
+        },
+        {
+            "id": 1,
+            "src": "Does Edwin of Northumbria's official religion consider Muhammad as its prophet?",
+            "additional_info": "Islam consider Muhammad as its prophet.",
+            "label": "True"
+        },
+        {
+            "id": 2,
+            "src": "Does Toko Yasuda play the pianist's music?",
+            "additional_info": "Who play piano may play pianist's music.",
+            "label": "True"
+        },
+        {
+            "id": 3,
+            "src": ":Is the Autonomous University of Madrid located in the country regards Stockholm as the capital?",
+            "additional_info": "Sweden regards Stockholm as its capital.",
+            "label": "True"
+        },
+        {
+            "id": 4,
+            "src": "Is the twin city of Lyon located in Southeast Asia?",
+            "additional_info": "Manila is located at Southeast Asia.",
+            "label": "True"
+        },
+        {
+            "id": 5,
+            "src": "Is Thomas Joannes Stieltjes speak a language the official language of Enaland?",
+            "additional_info": "Tthe official language of England is English.",            
+            "label": "True"
+        },
+        {
+            "id": 6,
+            "src": "Was Anal Nathrakh created in Pennsylvania?",
+            "additional_info": "Philadelphia is located in Pennsylvania.",
+            "label": "True"
+        },
+        {
+            "id": 7,
+            "src": "Did the company that developed Android create Apple A5?",
+            "additional_info": "Google developes Android.",
+            "label": "True"
+        },
+        {
+            "id": 8,
+            "src": "Is the twin city of Wellington known for its high steel production?",
+            "additional_info": "Sheffield is known for its high steel production.",
+            "label": "True"
+        },
+        {
+            "id": 11,
+            "src": "Does Andreas Ivanschitz need teamwork to play?",
+            "additional_info": "Football need teamwork to play.",
+            "label": "True"
+        },
+        {
+            "id": 12,
+            "src": "Does Michel Denisot speak the language that is spoken by native speakers in Russia?",
+            "additional_info": "Russian is spoken by native speakers in Russia.",
+            "label": "True"
+        },
+        {
+            "id": 14,
+            "src": "Does Go Hyeon-jeong speak the the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 15,
+            "src": "Does Percy Snow play hockey?",
+            "additional_info": "",
+            "label": "True"
+        },
+        {
+            "id": 16,
+            "src": "Is Saint Petersburg's twin city the capital of Portugal?",
+            "additional_info": "Lisbon is the capital of Portugal.",
+            "label": "True"
+        },
+        {
+            "id": 17,
+            "src": ":Did The Icelandic Dream use the Brahmi script as its original language?",
+            "additional_info": "Tmail is in Brahmi script.",
+            "label": "True"
+        },
+        {
+            "id": 20,
+            "src": "Is Inner Circle railway line located in an island country and city-state in maritime Southeast Asia?",
+            "additional_info": "Singapore is located in an island country and city-state in maritime Southeast Asia.",
+            "label": "True"
+        },
+        {
+            "id": 21,
+            "src": "Does the Argentine Football Association belong to an organization that is a part of an international military alliance?",
+            "additional_info": "NATO is an organization that is a part of an international military alliance.",
+            "label": "True"
+        },
+        {
+            "id": 22,
+            "src": "Does Monell Chemical Senses Center have its headquarters located in India?",
+            "additional_info": "Mumbai is loacted in India.",
+            "label": "True"
+        },
+        {
+            "id": 23,
+            "src": "Did Charles Alfred Pillsbury expire in the capital of German?",
+            "additional_info": "Berlin is the capital of German.",
+            "label": "True"
+        },
+        {
+            "id": 24,
+            "src": "Do the Heath Brothers perform classical music?",
+            "additional_info": "Opera is a kind of classical music.",
+            "label": "True"
+        },
+        {
+            "id": 26,
+            "src": "Does Billy Roche work to design buildings?",
+            "additional_info": "An architect can design buildings.",
+            "label": "True"
+        },
+        {
+            "id": 27,
+            "src": "Is Jean Gaven speak the language that is spoken by native speakers in Russia?",
+            "additional_info": "Russian is spoken by native speakers in Russia.",
+            "label": "True"
+        },
+        {
+            "id": 28,
+            "src": "Is Pidgeon Island on the same continent as China?",
+            "additional_info": "China is located in Asia.",
+            "label": "True"
+        },
+        {
+            "id": 30,
+            "src": "Did Leonardo Balada find employment in the city famous landmark the Louvre?",
+            "additional_info": "Paris is a city famous landmark the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 33,
+            "src": "Is the headquarter of Majorette located in the United Kingdom?",
+            "additional_info": "London is located in the United Kingdom.",
+            "label": "True"
+        },
+        {
+            "id": 34,
+            "src": "Was Laurent Cars employed at a place known for an iconic landmark?",
+            "additional_info": "Philadelphia is a city known for an iconic landmark.",
+            "label": "True"
+        },
+        {
+            "id": 36,
+            "src": "Is native language of Symeon of Polotsk the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "The mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 38,
+            "src": "Is the parent company of Jeep Commander the same as the parent company of Chrysler?",
+            "additional_info": "The parent company of Chrysler is Fiat.",
+            "label": "True"
+        },
+        {
+            "id": 40,
+            "src": "Is the twin city of Kharkiv known as the birthplace of democracy?",
+            "additional_info": "Athens is known as the birthplace of democracy.",
+            "label": "True"
+        },
+        {
+            "id": 41,
+            "src": "Does Mahmoud Fawzi use the official language of Germany?",
+            "additional_info": "The official language of Germany is German.",
+            "label": "True"
+        },
+        {
+            "id": 42,
+            "src": "Is Arun Nehru recognized for his contribution to the field of performing arts?",
+            "additional_info": "An actor can perform arts.",
+            "label": "True"
+        },
+        {
+            "id": 45,
+            "src": "Does Emilio Lussu speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "The mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 46,
+            "src": "Did Maso da San Friano pass away in the capital of Austria?",
+            "additional_info": "Vienna is the capital of Austria.",
+            "label": "True"
+        },
+        {
+            "id": 47,
+            "src": "Does Jean-Baptiste Marchand speak the official language of Germany?",
+            "additional_info": "The official language of Germany is German.",
+            "label": "True"
+        },
+        {
+            "id": 51,
+            "src": "Is Prydz Bay on the same continent as Libya?",
+            "additional_info": "Libya is located in Africa.",
+            "label": "True"
+        },
+        {
+            "id": 52,
+            "src": "Does Jean Galland use the Cyrillic script as their mother tongue?",
+            "additional_info": "Russian is a language in the Cyrillic script.",
+            "label": "True"
+        },
+        {
+            "id": 53,
+            "src": "Is the Pochepsky District in a country known for the Taj Mahal?",
+            "additional_info": "India is a country known for the Taj Mahal.",
+            "label": "True"
+        },
+        {
+            "id": 54,
+            "src": "Is Tapio Kantanen a citizen of a country in Southeast Europe?",
+            "additional_info": "Bulgaria is a country in Southeast Europe.",
+            "label": "True"
+        },
+        {
+            "id": 55,
+            "src": "Does John James Rickard Macleod work in the field of studying human behavior?",
+            "additional_info": "Psychology is a field of studying human behavior.",
+            "label": "True"
+        },
+        {
+            "id": 57,
+            "src": "Is Gilles Grimandi's birthplace the capital city of the U.S. state of Alabama?",
+            "additional_info": "Montgomery is the capital city of the U.S. state of Alabama.",
+            "label": "True"
+        },
+        {
+            "id": 58,
+            "src": "Do Northwest Territories and India use the same language?",
+            "additional_info": "Tamil is spoken in India.",
+            "label": "True"
+        },
+        {
+            "id": 60,
+            "src": "Does Carol Zhao recognize Japan's unique cultural traditions?",
+            "additional_info": "The man with a citizen of Japan can recognize Japan's unique cultural traditions.",
+            "label": "True"
+        },
+        {
+            "id": 61,
+            "src": ": Does Henry Mackenzie's place of origin serve as the capital city of Hawaii?",
+            "additional_info": "Honolulu serve as the capital city of Hawaii.",
+            "label": "True"
+        },
+        {
+            "id": 65,
+            "src": "Is the city where Mayer Carl von Rothschild found employment the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "True"
+        },
+        {
+            "id": 68,
+            "src": "Was Ryan Archibald born in England?",
+            "additional_info": "Plymouth is in England.",
+            "label": "True"
+        },
+        {
+            "id": 72,
+            "src": "Is Cao Yunding native to a city famous for Guinness?",
+            "additional_info": "Dublin is a city famous for Guinness.",
+            "label": "True"
+        },
+        {
+            "id": 73,
+            "src": "Does Lee Alvin DuBridge work as a representative of a country?",
+            "additional_info": "The diplomat is a representative of a country.",
+            "label": "True"
+        },
+        {
+            "id": 75,
+            "src": "Does Tanya Lopert speak the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 76,
+            "src": "Is Nancy Astor, Viscountess Astor employed in a city famous for the Louvre?",
+            "additional_info": "Paris in a city famous for the Louvre",
+            "label": "True"
+        },
+        {
+            "id": 80,
+            "src": "Did Fedele Fischetti die in a city famous for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 83,
+            "src": "Are Gabbro Hills and China on the same continent?",
+            "additional_info": "China is located in Asia.",
+            "label": "True"
+        },
+        {
+            "id": 86,
+            "src": "Is Stefanos Stratigos a native speaker of the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 87,
+            "src": "Does Gilli Smyth work for the organization governing authority of international soccer?",
+            "additional_info": "FIFA governs authority of international soccer",
+            "label": "True"
+        },
+        {
+            "id": 88,
+            "src": "Did Charles IV of Spain's life end in a city famous for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 90,
+            "src": "Is the twin city of Rabat situated on the same continent as Istanbul?",
+            "additional_info": "Istanbul is located in Europe and Asia.",
+            "label": "True"
+        },
+        {
+            "id": 91,
+            "src": "Did LeRoy Collins have a job in Russia's capital city?",
+            "additional_info": "Russia's capital city is Moscow.",
+            "label": "True"
+        },
+        {
+            "id": 92,
+            "src": "Does Pat Scully speak the official language of German?",
+            "additional_info": "The official language of German is Germany.",
+            "label": "True"
+        },
+        {
+            "id": 96,
+            "src": "Does Pantelis Kafes play in the position that requires excellent reflexes?",
+            "additional_info": "Catcher is the position that requires excellent reflexes.",
+            "label": "True"
+        },
+        {
+            "id": 97,
+            "src": "Is the headquarters of Ipsos MORI located in the capital of Norway?",
+            "additional_info": "Oslo is the capital of Norway.",
+            "label": "True"
+        },
+        {
+            "id": 98,
+            "src": "Was Mama Corsica written in the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 100,
+            "src": "Does Jahangir's official religion have the Torah as its holy book?",
+            "additional_info": "Judaism have the Torah as its holy book.",
+            "label": "True"
+        },
+        {
+            "id": 101,
+            "src": "Does Frank Mantooth play a genre of electronic music?",
+            "additional_info": "Trance is a genre of electronic music.",
+            "label": "True"
+        },
+        {
+            "id": 104,
+            "src": "Is Hohenlohe-Langenburg located in a place that is famous for pizza?",
+            "additional_info": "Italy is famous for pizza.",
+            "label": "True"
+        },
+        {
+            "id": 107,
+            "src": "Does Ruud Gullit play in a position known for its physicality?",
+            "additional_info": "Linebacker is a position known for its physicality.",
+            "label": "True"
+        },
+        {
+            "id": 108,
+            "src": "Is the Bastille located in a country that has the maple leaf as its national symbol?",
+            "additional_info": "Canada has the maple leaf as its national symbol",
+            "label": "True"
+        },
+        {
+            "id": 111,
+            "src": "Is Bucharest the capital city of the country where Armin Hofmann holds citizenship?",
+            "additional_info": "Bucharest if the capital city of Romania.",
+            "label": "True"
+        },
+        {
+            "id": 112,
+            "src": "Is Gwen Stefani speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 113,
+            "src": "Does Tom Fletcher play trumpeter's music?",
+            "additional_info": "Who play trumpet can play trumpeter's music.",
+            "label": "True"
+        },
+        {
+            "id": 114,
+            "src": "Does Pat Crowley hold office in the government?",
+            "additional_info": "politician hold office in the government.",
+            "label": "True"
+        },
+        {
+            "id": 116,
+            "src": "Is Thoranai used the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "True"
+        },
+        {
+            "id": 117,
+            "src": "Is it true that RSM-56 Bulava was created in a country famous for sushi?",
+            "additional_info": "Japan is the country famous for sushi.",
+            "label": "True"
+        },
+        {
+            "id": 118,
+            "src": "Is Oliver Ames High School located in a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States?",
+            "additional_info": "Pennsylvania is the state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States.",
+            "label": "True"
+        },
+        {
+            "id": 119,
+            "src": "Is the official religion of Uwais Qarni connected to the founder Siddhartha Gautama?",
+            "additional_info": "Buddhism considers Siddhartha Gautama as its founder.",
+            "label": "True"
+        },
+        {
+            "id": 121,
+            "src": "Is Rutgers Glacier on the same continent as Libya?",
+            "additional_info": "Libya locates in Africa.",
+            "label": "True"
+        },
+        {
+            "id": 122,
+            "src": "Is Elrio van Heerden a player who wears a goalie mask?",
+            "additional_info": "goaltender wears a goalie mask.",
+            "label": "True"
+        },
+        {
+            "id": 124,
+            "src": "Does the Charles Bridge in the twin city Houston?",
+            "additional_info": "the Charles Bridge is in Prague.",
+            "label": "True"
+        },
+        {
+            "id": 127,
+            "src": "Does Luana Walters hold an elected office in public service?",
+            "additional_info": "politician hold an elected office in public service.",
+            "label": "True"
+        },
+        {
+            "id": 129,
+            "src": "Is the city where Immaculate Machine was started known for its steel industry?",
+            "additional_info": "Sheffield was started known for its steel industry.",
+            "label": "True"
+        },
+        {
+            "id": 131,
+            "src": "Is the native language of Paul Biegel the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 132,
+            "src": "Does Charles Caruana, who holds the position that lead the development of the city?",
+            "additional_info": "mayor lead the development of the city.",
+            "label": "True"
+        },
+        {
+            "id": 133,
+            "src": "Did Joseph Wostinholm die in Germany?",
+            "additional_info": "Hamburg is a city in Germany.",
+            "label": "True"
+        },
+        {
+            "id": 134,
+            "src": "Does Yi-Fu Tuan have expertise in an art form?",
+            "additional_info": "singing is an art form.",
+            "label": "True"
+        },
+        {
+            "id": 135,
+            "src": "Is the city where Typical Cats formed known for its vibrant music scene?",
+            "additional_info": "Montreal is a city known for its vibrant music scene.",
+            "label": "True"
+        },
+        {
+            "id": 136,
+            "src": "Does Domingo de Soto have expertise in the study of resource allocation?",
+            "additional_info": "Economics require the study of resource allocation.",
+            "label": "True"
+        },
+        {
+            "id": 140,
+            "src": "Does El Correo speak the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "True"
+        },
+        {
+            "id": 141,
+            "src": "Does Du gamla, du fria use the official language of Finland.",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "True"
+        },
+        {
+            "id": 143,
+            "src": "Is Delusions of Grandeur originally in the country whose capital is London?",
+            "additional_info": "London is the capital city of The United Kingdom.",
+            "label": "True"
+        },
+        {
+            "id": 144,
+            "src": ": Does the law in Gibraltar declare use the same official language as Finland?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "True"
+        },
+        {
+            "id": 146,
+            "src": "Can the 2010 Winter Paralympics be found in the country where people speak German?",
+            "additional_info": "German is the offcial language in Germany.",
+            "label": "True"
+        },
+        {
+            "id": 148,
+            "src": "Is the headquarter of Newcomen Society located in America?",
+            "additional_info": "Irvine is a city in America.",
+            "label": "True"
+        },
+        {
+            "id": 149,
+            "src": "Does Three Drives play classical music?",
+            "additional_info": "opera is a kind of classical music.",
+            "label": "True"
+        },
+        {
+            "id": 150,
+            "src": "Does Mark Isham play an instrument with strings?",
+            "additional_info": "piano is an instrument with strings.",
+            "label": "True"
+        },
+        {
+            "id": 152,
+            "src": "Is the headquarters of Northeastern University in Ireland?",
+            "additional_info": "Dublin is a city in Ireland.",
+            "label": "True"
+        },
+        {
+            "id": 153,
+            "src": "Does Tropical Malady use a langugae that spoken widely by people in India?",
+            "additional_info": "Tamil is a langugae that spoken widely by people in India.",
+            "label": "True"
+        },
+        {
+            "id": 156,
+            "src": "Did Pinhas Hirschprung pass away in a city known for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 158,
+            "src": "Does Piper Verlag locate in a country treat Dublin as its capital?",
+            "additional_info": "Ireland treat Dublin as its capital city.",
+            "label": "True"
+        },
+        {
+            "id": 159,
+            "src": "Does Karl Mecklenburg play in a position that requires good passing skills?",
+            "additional_info": "midfielder is the position requires good passing skills.",
+            "label": "True"
+        },
+        {
+            "id": 161,
+            "src": "Is the official language by the Dehkhoda Dictionary widely spoken in Russia?",
+            "additional_info": "Russian is widely spoken in Russia.",
+            "label": "True"
+        },
+        {
+            "id": 166,
+            "src": "Does Constantin von Monakow speak official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "True"
+        },
+        {
+            "id": 168,
+            "src": "Does Cees Nooteboom's native language the same as the official language of Indonesia?",
+            "additional_info": "Indonesian is the official language of Indonesia.",
+            "label": "True"
+        },
+        {
+            "id": 169,
+            "src": "Does Patrick Manson possess the skill of acting?",
+            "additional_info": "An actor possess the skill of acting.",
+            "label": "True"
+        },
+        {
+            "id": 170,
+            "src": "Was Omar Torrijos associated with the capital city of Sweden?",
+            "additional_info": "The capital city of Sweden is Stockholm.",
+            "label": "True"
+        },
+        {
+            "id": 172,
+            "src": "Is John Queen a citizen of the country that has the Irish Gaelic language.",
+            "additional_info": "Ireland has the Irish Gaelic language.",
+            "label": "True"
+        },
+        {
+            "id": 174,
+            "src": "Is Iosif Rotariu a player who throws different types of pitches?",
+            "additional_info": "pitcher throws different types of pitches.",
+            "label": "True"
+        },
+        {
+            "id": 176,
+            "src": "Is Concha Espina passed away at the city in Australia?",
+            "additional_info": "Melbourne is a city in Australia.",
+            "label": "True"
+        },
+        {
+            "id": 179,
+            "src": "Is the place where Tullio De Mauro found employment the capital of Austria?",
+            "additional_info": "the capital of Austria is Vienna.",
+            "label": "True"
+        },
+        {
+            "id": 180,
+            "src": "Does Giovanni Battista Riccioli work in the subfield of organic chemistry?",
+            "additional_info": "chemistry is in the subfield of organic chemistry.",
+            "label": "True"
+        },
+        {
+            "id": 181,
+            "src": "Does Thurman Munson lead the offense of his team?",
+            "additional_info": "quarterback lead the offense of his team.",
+            "label": "True"
+        },
+        {
+            "id": 185,
+            "src": "Did Louis Vola lose their life in north-western Turkey?",
+            "additional_info": "Istanbul is in in north-western Turkey.",
+            "label": "True"
+        },
+        {
+            "id": 186,
+            "src": "Does Shreela Ghosh engage in creative expression through literature as her occupation?",
+            "additional_info": "poet engage in creative expression through literature.",
+            "label": "True"
+        },
+        {
+            "id": 188,
+            "src": "Are Sandy Bridge and Macbook developed by the same company?",
+            "additional_info": "Macbook is developed by Apple.",
+            "label": "True"
+        },
+        {
+            "id": 189,
+            "src": "Is the language spoken in Le Iene the official language in England?",
+            "additional_info": "the official language in England is English.",
+            "label": "True"
+        },
+        {
+            "id": 192,
+            "src": "Is Pappas Restaurants located in a city with a significant population?",
+            "additional_info": "Franklin is a city with a significant population.",
+            "label": "True"
+        },
+        {
+            "id": 193,
+            "src": "Is one of the twin city of Oslo recognized as the capital of Iran?",
+            "additional_info": "Tehran is the capital city of Iran.",
+            "label": "True"
+        },
+        {
+            "id": 194,
+            "src": "Does Otto Piene belong to an organization that aims for collective defense?",
+            "additional_info": "NATO is an organization that aims for collective defense.",
+            "label": "True"
+        },
+        {
+            "id": 196,
+            "src": "Is the mother of Pierre Messmer the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "True"
+        },
+        {
+            "id": 198,
+            "src": "Does the twin city of Bucharest the third largest city in France and centre of the second largest metropolitan area in the country?",
+            "additional_info": "Lyon is the third largest city in France and centre of the second largest metropolitan area in the country.",
+            "label": "True"
+        },
+        {
+            "id": 199,
+            "src": "Does the language writing Stylus Magazine use a writing system of characters?",
+            "additional_info": "Chinese use  a writing system of characters.",
+            "label": "True"
+        },
+        {
+            "id": 200,
+            "src": "Is Wild Reeds originally in the official language of spain?",
+            "additional_info": "the official language of spain is Spanish.",
+            "label": "True"
+        },
+        {
+            "id": 202,
+            "src": "Is the headquarters of Veracode located in the state capital of Ohio?",
+            "additional_info": "Columbus is the state capital of Ohio.",
+            "label": "True"
+        },
+        {
+            "id": 206,
+            "src": "Is the country found Silverchair known for the Taj Mahal?",
+            "additional_info": "India is known for the Taj Mahal.",
+            "label": "True"
+        },
+        {
+            "id": 207,
+            "src": "Is Llapingacho from the country famous for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 208,
+            "src": "Does Teres Ridge belong to the African Plate?",
+            "additional_info": "African Plate is in Africa.",
+            "label": "True"
+        },
+        {
+            "id": 209,
+            "src": "Is Carl Kasell employed by the company whose headquarters located in Armonk, New York?",
+            "additional_info": "The headquarters of IBM is located in Armonk, New York",
+            "label": "True"
+        },
+        {
+            "id": 210,
+            "src": "Is the country founded Udo Mechels famous for the Taj Mahal?",
+            "additional_info": "India is known for the Taj Mahal.",
+            "label": "True"
+        },
+        {
+            "id": 211,
+            "src": "Did Tankred Dorst find employment in the capital city of England?",
+            "additional_info": "The capital city of England is London.",
+            "label": "True"
+        },
+        {
+            "id": 212,
+            "src": "Is Princeton University Press located in a city where Pigeon Rocks is a famous landmark?",
+            "additional_info": "Beirut is a city where Pigeon Rocks is a famous landmark.",
+            "label": "True"
+        },
+        {
+            "id": 213,
+            "src": "Is the mother tongue of Ilya Ehrenburg the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 214,
+            "src": "Does Susan Stamberg work for a company headquartered in the capital of the United Kingdom?",
+            "additional_info": "The capital of the United Kingdom is London.",
+            "label": "True"
+        },
+        {
+            "id": 215,
+            "src": "Is Haseeb Ahsan a citizen of a country famous for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 217,
+            "src": "Do Georgians live in the country whose capital city is Amsterdam?",
+            "additional_info": "The capital of Netherlands is Amsterdam.",
+            "label": "True"
+        },
+        {
+            "id": 218,
+            "src": "Has M. S. Viswanathan appeared in any film or television productions?",
+            "additional_info": "An actor open appear in films or television productions.",
+            "label": "True"
+        },
+        {
+            "id": 220,
+            "src": "Did Sedat Alp die in Italy?",
+            "additional_info": "Rome is in Italy.",
+            "label": "True"
+        },
+        {
+            "id": 221,
+            "src": "Is Risemedet Mountain located in North America?",
+            "additional_info": "Americas is in in North America.",
+            "label": "True"
+        },
+        {
+            "id": 223,
+            "src": "Is Ritt Bjerregaard's home country the birthplace of pizza?",
+            "additional_info": "Italy is the birthplace of pizza.",
+            "label": "True"
+        },
+        {
+            "id": 227,
+            "src": "Is Noon Meem Rashid representing constituents?",
+            "additional_info": "politician can represent constituents.",
+            "label": "True"
+        },
+        {
+            "id": 228,
+            "src": "Does the Daily Planet's homeland have sushi as its unique characteristic?",
+            "additional_info": "Japan is the country famous for sushi.",
+            "label": "True"
+        },
+        {
+            "id": 229,
+            "src": "Does Friday Night Dinner perform in the classical genre?",
+            "additional_info": "opera is a kind of classical genre.",
+            "label": "True"
+        },
+        {
+            "id": 232,
+            "src": "Is the capital city of Austria the Anthony Asquith's place of expiration?",
+            "additional_info": "Vienna is the capital city of Austria.",
+            "label": "True"
+        },
+        {
+            "id": 233,
+            "src": "Is Fox Soccer News created in the country famous for its pasta.",
+            "additional_info": "Italy is the country famous for its pasta.",
+            "label": "True"
+        },
+        {
+            "id": 234,
+            "src": "Is the original language of Likkutei Sichos the official language of Sri Lanka?",
+            "additional_info": "Tamil is the official language of Sri Lanka.",
+            "label": "True"
+        },
+        {
+            "id": 235,
+            "src": "Does As-Saffah follow the religion that has a holy book called Torah?",
+            "additional_info": "Judaism have the Torah as its holy book.",
+            "label": "True"
+        },
+        {
+            "id": 239,
+            "src": "Is English the official language of the place located in Ghana?",
+            "additional_info": "English is the official language of England.",
+            "label": "True"
+        },
+        {
+            "id": 241,
+            "src": "Did VP9 and Windows created by the same company?",
+            "additional_info": "Windows is created by Microsoft.",
+            "label": "True"
+        },
+        {
+            "id": 242,
+            "src": "Does Didier Haudepin speak a language influenced by Semitic languages?",
+            "additional_info": "Hebrew is a language influenced by Semitic languages.",
+            "label": "True"
+        },
+        {
+            "id": 244,
+            "src": "Is Michel Chasles's domain of work related to the fundamental force of gravity?",
+            "additional_info": "physics is related to the fundamental force of gravity",
+            "label": "True"
+        },
+        {
+            "id": 245,
+            "src": "Is Berlin the capital of the country created BBC Knowledge?",
+            "additional_info": "Germany regrads Berlin as its capital city.",
+            "label": "True"
+        },
+        {
+            "id": 246,
+            "src": "Does Jonathan Osorio play a position that requires agility?",
+            "additional_info": "goaltender is the position requires agility.",
+            "label": "True"
+        },
+        {
+            "id": 248,
+            "src": "Is German the official language of Mohammad-Taqi Mesbah-Yazdi's home country?",
+            "additional_info": "the official language of Germany is German.",
+            "label": "True"
+        },
+        {
+            "id": 250,
+            "src": "Does Nicolaus Olahus use the Cyrillic script for writing?",
+            "additional_info": "Russian is a language in the Cyrillic script.",
+            "label": "True"
+        },
+        {
+            "id": 251,
+            "src": "Is PAX located in a city in England?",
+            "additional_info": "Leeds is a city in England.",
+            "label": "True"
+        },
+        {
+            "id": 253,
+            "src": "Is the official language in Russia the native language of Julien Courbet?",
+            "additional_info": "the official language in Russia is Russian.",
+            "label": "True"
+        },
+        {
+            "id": 255,
+            "src": "Did Armored Fleet Dairugger XV originate in a country where English is the official language?",
+            "additional_info": "English is the official language of England.",
+            "label": "True"
+        },
+        {
+            "id": 256,
+            "src": "Did NRJ Group created in China?",
+            "additional_info": "Shanghai is a city in China.",
+            "label": "True"
+        },
+        {
+            "id": 262,
+            "src": "Does Hank Aaron use a basketball hoop in his profession?",
+            "additional_info": "Who playing basketball use a basketball hoop.",
+            "label": "True"
+        },
+        {
+            "id": 263,
+            "src": ": Does Onufri work in a field that focuses on celestial bodies?",
+            "additional_info": "astronomy is a field focusing on celestial bodies.",
+            "label": "True"
+        },
+        {
+            "id": 267,
+            "src": "Is Xerox created in South Florida, United States of America?",
+            "additional_info": "Miami is in South Florida, United States of America.",
+            "label": "True"
+        },
+        {
+            "id": 268,
+            "src": "Can Cheikh Anta Diop can legally reside in Canada permanently?",
+            "additional_info": "Who holds a citizenship from Canada can legally reside in Canada permanently.",
+            "label": "True"
+        },
+        {
+            "id": 269,
+            "src": "Did Cyril Smith take up work in the metropolitan county of West Midlands in England?",
+            "additional_info": "Birmingham is in the metropolitan county of West Midlands in England.",
+            "label": "True"
+        },
+        {
+            "id": 271,
+            "src": "Is Sebastiano Conca's place of passing in Washington, D.C.?",
+            "additional_info": "Georgetown is in Washington, D.C..",
+            "label": "True"
+        },
+        {
+            "id": 272,
+            "src": "Is the mother tongue of Alain Robbe-Grillet the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 273,
+            "src": "Is Rio Natsuki originally from a city which is known for its notable building, the Frauenkirche?",
+            "additional_info": "Dresden is the city which is known for its notable building, the Frauenkirche.",
+            "label": "True"
+        },
+        {
+            "id": 276,
+            "src": "Does Nigel de Jong play in a position that requires the ability to throw different types of pitches?",
+            "additional_info": "pitcher is a position that requires the ability to throw different types of pitches.",
+            "label": "True"
+        },
+        {
+            "id": 280,
+            "src": "Does Aerosvit Airlines form in the city that famous for Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 281,
+            "src": "Is the capital city of the location where Matusevich Glacier is situated Brussels?",
+            "additional_info": "the capital city of Europe is Brussels.",
+            "label": "True"
+        },
+        {
+            "id": 282,
+            "src": "Does one of twin cities of Ankara locate in northeastern Italy?",
+            "additional_info": "Venice is locate in northeastern Italy.",
+            "label": "True"
+        },
+        {
+            "id": 284,
+            "src": "Is the language widely spoken in the United States spoken by Georges Marchais?",
+            "additional_info": "English is the language widely spoken in the United States.",
+            "label": "True"
+        },
+        {
+            "id": 285,
+            "src": "Is Wesley Hospital located in a the capital city of Greece?",
+            "additional_info": "the capital city of Greece is Athens.",
+            "label": "True"
+        },
+        {
+            "id": 287,
+            "src": "Did George Auriol work in a place where Big Ben is a famous landmark?",
+            "additional_info": "London is a city where Big Ben is a famous landmark",
+            "label": "True"
+        },
+        {
+            "id": 288,
+            "src": "Is the country in Southeastern Europe known for hosting the Massenet Festival?",
+            "additional_info": "Albania is a country in Southeastern Europe.",
+            "label": "True"
+        },
+        {
+            "id": 289,
+            "src": "Is Jan Peerce known for performing a music genre originated in the African-American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "True"
+        },
+        {
+            "id": 290,
+            "src": "Is Brava Gente's original language widely spoken in India?",
+            "additional_info": "Tamil is widely spoken in India.",
+            "label": "True"
+        },
+        {
+            "id": 294,
+            "src": "Is Mobiloil Inlet on the same continent as German?",
+            "additional_info": "German locates in Europe.",
+            "label": "True"
+        },
+        {
+            "id": 298,
+            "src": "Does Sepala Attygalle's job to design buildings and structures?",
+            "additional_info": "An architect can design buildings and structures.",
+            "label": "True"
+        },
+        {
+            "id": 301,
+            "src": "Is the headquarter of BSC Young Boys located in the capital city of the Canadian province of Ontario?",
+            "additional_info": "Toronto is the capital city of the Canadian province of Ontario.",
+            "label": "True"
+        },
+        {
+            "id": 303,
+            "src": "Does 'The Experiment' originally aired on the channel that specializes in women's programming?",
+            "additional_info": "Lifetime is the channel that specializes in women's programming.",
+            "label": "True"
+        },
+        {
+            "id": 305,
+            "src": "Is Trail Inlet located in the continent that includes countries like Germany, France, and Italy?",
+            "additional_info": "Europe is the continent that includes countries like Germany, France, and Italy.",
+            "label": "True"
+        },
+        {
+            "id": 306,
+            "src": "Did Arthur Wellesley, 1st Duke of Wellington, work in the capital city of Austria?",
+            "additional_info": "Vienna is the capital city of Austria.",
+            "label": "True"
+        },
+        {
+            "id": 308,
+            "src": "Does Kasino originate in the capital and largest city of the Commonwealth of Massachusetts?",
+            "additional_info": "Boston is the capital and largest city of the Commonwealth of Massachusetts.",
+            "label": "True"
+        },
+        {
+            "id": 309,
+            "src": "Does Jozef Tomko hold a position that involves governing a locality?",
+            "additional_info": "mayor is a position that involves governing a locality.",
+            "label": "True"
+        },
+        {
+            "id": 311,
+            "src": "Is the mother tongue of Jalil Lespert the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 312,
+            "src": "Does Michael Langrish hold the position of a person who wears a red hat?",
+            "additional_info": "cardinal is a position of a person who wears a red hat.",
+            "label": "True"
+        },
+        {
+            "id": 313,
+            "src": "Did Pedro de Ribera die in the capital of England?",
+            "additional_info": "The capital of England is London.",
+            "label": "True"
+        },
+        {
+            "id": 314,
+            "src": "Is Johannesburg associated with another city that has a major naval port and hosts the Royal Navy?",
+            "additional_info": "Portsmouth has a major naval port and hosts the Royal Navy.",
+            "label": "True"
+        },
+        {
+            "id": 315,
+            "src": "Does Raymond Flynn have a job in the capital of France?Final Step 5 Output:\nThe output of step 4 does not contain \"Paris\".",
+            "additional_info": "The capital of France is Paris.",
+            "label": "True"
+        },
+        {
+            "id": 317,
+            "src": "Is Xavier Saint-Macary the speaker of the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "True"
+        },
+        {
+            "id": 318,
+            "src": "Do Piirpauke perform music with a suspenseful genre?",
+            "additional_info": "thriller is a kind of a suspenseful genre.",
+            "label": "True"
+        },
+        {
+            "id": 322,
+            "src": "Is Riverway, Townsville located in a region where English is the official language?",
+            "additional_info": "English is the official language of England.",
+            "label": "True"
+        },
+        {
+            "id": 323,
+            "src": "Is Gracie Mansion located near Niagara Falls?",
+            "additional_info": "Ontario is located near Niagara Falls.",
+            "label": "True"
+        },
+        {
+            "id": 324,
+            "src": "Did Hermann Hesse use to work in the capital city of England?",
+            "additional_info": " the capital city of England is London.",
+            "label": "True"
+        },
+        {
+            "id": 327,
+            "src": "Does Jonathan Haidt work in the field of shapes and spatial relationships?",
+            "additional_info": "geometry is field of shapes and spatial relationships.",
+            "label": "True"
+        },
+        {
+            "id": 328,
+            "src": "Did Jack McGurn's life end in a significant city of Pakistan?",
+            "additional_info": "Karachi is a significant city of Pakistan.",
+            "label": "True"
+        },
+        {
+            "id": 329,
+            "src": "Was Angela Merkel employed in a city located in the capital city of Italy?",
+            "additional_info": "the capital city of Italy is Rome.",
+            "label": "True"
+        },
+        {
+            "id": 332,
+            "src": "Does Operation Inherent Resolve take place in the capital of Hawaii?",
+            "additional_info": "Honolulu is the capital of Hawaii.",
+            "label": "True"
+        },
+        {
+            "id": 336,
+            "src": "Is Suvorov Glacier located in the largest continent?",
+            "additional_info": "Asia is the largest continent.",
+            "label": "True"
+        },
+        {
+            "id": 337,
+            "src": "Is the place where An Angle was created the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "True"
+        },
+        {
+            "id": 338,
+            "src": "Does Sangha follow the religion practiced by Muslims?",
+            "additional_info": "Islam is the religion practiced by Muslims.",
+            "label": "True"
+        },
+        {
+            "id": 340,
+            "src": "Does the country of Eirodziesma regard Khartoum as capital city?",
+            "additional_info": "Sudan regard Khartoum as capital city.",
+            "label": "True"
+        },
+        {
+            "id": 341,
+            "src": "Is Olot located in a democratic country known for Taj Mahal?",
+            "additional_info": "India is known for the Taj Mahal.",
+            "label": "True"
+        },
+        {
+            "id": 343,
+            "src": "Can Jennings be found in the state capital of Maryland?",
+            "additional_info": "Maryland is the state capital of Maryland.",
+            "label": "True"
+        },
+        {
+            "id": 345,
+            "src": "Is Charles Nungesser associated with the bustling film industry?",
+            "additional_info": "Mumbai is a city bustling film industry.",
+            "label": "True"
+        },
+        {
+            "id": 346,
+            "src": "Does Donald McCaig represent a country in diplomatic settings?",
+            "additional_info": "A diplomat represents a country in diplomatic settings.",
+            "label": "True"
+        },
+        {
+            "id": 347,
+            "src": "Does Tarvaris Jackson, who plays the position requiring quick reflexes?",
+            "additional_info": "goaltender plays the position requiring quick reflexes.",
+            "label": "True"
+        },
+        {
+            "id": 348,
+            "src": "Does one of the twin city of Bordeaux the capital and largest metropolis of South Korea?",
+            "additional_info": "Seoul is the capital and largest metropolis of South Korea.",
+            "label": "True"
+        },
+        {
+            "id": 352,
+            "src": "Does Patricia Conroy have visa-free travel to ASEAN countries?",
+            "additional_info": "People from Cambodia have visa-free travel to ASEAN countries.",
+            "label": "True"
+        },
+        {
+            "id": 353,
+            "src": "Does Gothika perform a music genre that originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "True"
+        },
+        {
+            "id": 354,
+            "src": "Is the Caribbean Community Secretariat based in a financial hub in Germany?",
+            "additional_info": "Frankfurt is in a financial hub in Germany.",
+            "label": "True"
+        },
+        {
+            "id": 355,
+            "src": "Does Kamohelo Mokotjo play a position that requires strong throwing abilities?",
+            "additional_info": "quarterback is the position requires strong throwing abilities.",
+            "label": "True"
+        },
+        {
+            "id": 356,
+            "src": "Does Florent Cuvelier play in the position that requires excellent fielding skills and quick reflexes?",
+            "additional_info": "outfielder is the position that requires excellent fielding skills and quick reflexes.",
+            "label": "True"
+        },
+        {
+            "id": 357,
+            "src": "Was Murphy Brown originally aired on a television network known for its popular show Game of Thrones?",
+            "additional_info": "HBO is known for its popular show Game of Thrones",
+            "label": "True"
+        },
+        {
+            "id": 360,
+            "src": "Is Italy the location of the headquarters of Irish Ferries?",
+            "additional_info": "Rome is a city in Italy.",
+            "label": "True"
+        },
+        {
+            "id": 363,
+            "src": "Did Sa\u00fal Levi Morteira die in the capital of Russia?",
+            "additional_info": "The capital of Russia is Moscow.",
+            "label": "True"
+        },
+        {
+            "id": 364,
+            "src": "Does Henry Villard speak Urdu?",
+            "additional_info": "People in Pakistan speak Urdu.",
+            "label": "True"
+        },
+        {
+            "id": 366,
+            "src": "Is the New Bedford Whaling Museum located within Ireland's capital?",
+            "additional_info": "Ireland's capital is Dublin.",
+            "label": "True"
+        },
+        {
+            "id": 368,
+            "src": "Is Corriere della Sera located in Oceania?",
+            "additional_info": "Australia is in Oceania.",
+            "label": "True"
+        },
+        {
+            "id": 369,
+            "src": "Does David Yost represent a country in diplomatic settings?",
+            "additional_info": "A diplomat represents a country in diplomatic settings.",
+            "label": "True"
+        },
+        {
+            "id": 370,
+            "src": "Does Micko Larkin perform the music of pianists?",
+            "additional_info": "Who plays piano can perform the music of pianists.",
+            "label": "True"
+        },
+        {
+            "id": 371,
+            "src": "Does Anatole France speak the most widely spoken language with over 1.5 billion people?",
+            "additional_info": "English is the most widely spoken language with over 1.5 billion people.",
+            "label": "True"
+        },
+        {
+            "id": 372,
+            "src": "Does Lurrie Bell come from the capital city of Canada?",
+            "additional_info": "Ottawa is the capital city of Canada.",
+            "label": "True"
+        },
+        {
+            "id": 373,
+            "src": "Is Christian Bouchet's native language the same as Leo Tolstoy's?",
+            "additional_info": "Leo Tolstoy's native language is Russia.",
+            "label": "True"
+        },
+        {
+            "id": 374,
+            "src": "Is the language used by Henri Massis the official langugage of the USA?",
+            "additional_info": "the official langugage of the USA is English.",
+            "label": "True"
+        },
+        {
+            "id": 375,
+            "src": "Is the headquarters of Crown Airways located in the capital of Russia?",
+            "additional_info": "The capital of Russia is Moscow.",
+            "label": "True"
+        },
+        {
+            "id": 381,
+            "src": "Is Marguerite Broquedis associated with Norway's unique characteristic of having fjords?",
+            "additional_info": "Who has a citizenship from can associated with Norway's unique characteristic of having fjords.",
+            "label": "True"
+        },
+        {
+            "id": 382,
+            "src": "Is David Carney familiar with the rules and terminology of basketball?",
+            "additional_info": "Who plays basketball must be familiar with the rules and terminology of basketball.",
+            "label": "True"
+        },
+        {
+            "id": 383,
+            "src": "Is the headquarters of Tata Steel Europe in Ireland?",
+            "additional_info": "Dublin is in Ireland.",
+            "label": "True"
+        },
+        {
+            "id": 384,
+            "src": "Does Luigi Boccherini write in the language spoken in Spain?",
+            "additional_info": "Spanish is spoken in Spain.",
+            "label": "True"
+        },
+        {
+            "id": 386,
+            "src": "Does The Mistress of the Inn have an ancient script as its original language?",
+            "additional_info": "Tamil has an ancient script.",
+            "label": "True"
+        },
+        {
+            "id": 388,
+            "src": "Does Ethyl Eichelberger hold a position as a government official?",
+            "additional_info": "politicians is government officials.",
+            "label": "True"
+        },
+        {
+            "id": 389,
+            "src": "Is the language spoken in the Netherlands known to Leslie Caron?",
+            "additional_info": "the language spoken in the Netherlands is Dutch.",
+            "label": "True"
+        },
+        {
+            "id": 390,
+            "src": "Does Abraham Fraenkel write in a language spoken in Norway?",
+            "additional_info": "Norwegian is spoken in Norway.",
+            "label": "True"
+        },
+        {
+            "id": 395,
+            "src": "Is Resta in ascolto written in the language widely spoken in France?",
+            "additional_info": "French is the language widely spoken in France.",
+            "label": "True"
+        },
+        {
+            "id": 396,
+            "src": "Does Pervez Musharraf acknowledge Siddhartha Gautama as the founder of his religion?",
+            "additional_info": "Buddhism considers Siddhartha Gautama as its founder.",
+            "label": "True"
+        },
+        {
+            "id": 397,
+            "src": "Is Romulus Glacier on the same continent as German?",
+            "additional_info": "German locates in Europe.",
+            "label": "True"
+        },
+        {
+            "id": 398,
+            "src": "Does Kanye West originate in a city that famous for the Sydney Opera House?",
+            "additional_info": "Sydney is the city famous for Sydney Opera House.",
+            "label": "True"
+        },
+        {
+            "id": 399,
+            "src": "Is Argosy Glacier on the same continent as Libya?",
+            "additional_info": "Libya locates in Africa.",
+            "label": "True"
+        },
+        {
+            "id": 400,
+            "src": "Was Cuban espresso created in a country famous for the Sydney Opera House?",
+            "additional_info": "Sydney is the city famous for Sydney Opera House.",
+            "label": "True"
+        },
+        {
+            "id": 402,
+            "src": "Does Fabio Grobart speak French as the official language of his citizenship?",
+            "additional_info": "French is the the official language of France.",
+            "label": "True"
+        },
+        {
+            "id": 403,
+            "src": "Is Inge Magnusson a citizen of a country that has a famous castle associated with vampire legends?",
+            "additional_info": "Romania is a country that has a famous castle associated with vampire legends.",
+            "label": "True"
+        },
+        {
+            "id": 404,
+            "src": "Is Indie Memphis located in the capital and largest city of the Commonwealth of Massachusetts?",
+            "additional_info": "Boston is the capital and largest city of the Commonwealth of Massachusetts.",
+            "label": "True"
+        },
+        {
+            "id": 406,
+            "src": "Is Sheikh Bedreddin's religion that had Siddhartha Gautama as its founder?",
+            "additional_info": "Buddhism considers Siddhartha Gautama as its founder.",
+            "label": "True"
+        },
+        {
+            "id": 407,
+            "src": "Did Beryl Cook passed away in the Midwest of USA?",
+            "additional_info": "Chicago is in the Midwest of USA.",
+            "label": "True"
+        },
+        {
+            "id": 408,
+            "src": "Does Leonhard Christian Borchgrevink Holmboe speak the language originated from France?",
+            "additional_info": "France is the language originated from France.",
+            "label": "True"
+        },
+        {
+            "id": 409,
+            "src": "Was Stardust Five created in the capital and largest city of England?",
+            "additional_info": "The capital and largest city of England is English.",
+            "label": "True"
+        },
+        {
+            "id": 413,
+            "src": "Is Susette LaFlesche Tibbles from a place located in Maryland?",
+            "additional_info": "Baltimore is in Maryland.",
+            "label": "True"
+        },
+        {
+            "id": 414,
+            "src": "Is the twin city of Florence the capital and most populous city of Spain?",
+            "additional_info": "Madrid is the capital and most populous city of Spain.",
+            "label": "True"
+        },
+        {
+            "id": 415,
+            "src": "Is Oslo Airport, Gardermoen, named after the capital city of Italy?",
+            "additional_info": "the capital city of Italy is Rome.",
+            "label": "True"
+        },
+        {
+            "id": 416,
+            "src": "Does Spectrum-X start in the borough of New York City?",
+            "additional_info": "Brooklyn is in New York City.",
+            "label": "True"
+        },
+        {
+            "id": 417,
+            "src": "Is the headquarters of Sporveien located in the state of Minnesota.",
+            "additional_info": "Minneapolis is located in the state of Minnesota",
+            "label": "True"
+        },
+        {
+            "id": 418,
+            "src": "Is the language of Invitation to the Castle widely spoken in Tamil Nadu?",
+            "additional_info": "Tamil is widely spoken in Tamil Nadu.",
+            "label": "True"
+        },
+        {
+            "id": 419,
+            "src": "Does the headquarters of Amirkabir University of Technology locate in the capital city of the Canadian province of Ontario?",
+            "additional_info": "Toronto is the capital city of the Canadian province of Ontario.",
+            "label": "True"
+        },
+        {
+            "id": 420,
+            "src": "Does the language of The Secret in Their Eyes widely spoken in Tamil Nadu?",
+            "additional_info": "Tamil is widely spoken in Tamil Nadu.",
+            "label": "True"
+        },
+        {
+            "id": 421,
+            "src": "Is the headquarters of Bajaj Electricals in Scotland?",
+            "additional_info": "Glasgow is in Scotland.",
+            "label": "True"
+        },
+        {
+            "id": 424,
+            "src": "Does Giovanni Pellielo associate Jamaica with reggae music?",
+            "additional_info": "The people in Jamaica associate Jamaica with reggae music.",
+            "label": "True"
+        },
+        {
+            "id": 425,
+            "src": "Does Haydn Bendall come from a place that has Milan Cathedral?",
+            "additional_info": "Milan has Milan Cathedral.",
+            "label": "True"
+        },
+        {
+            "id": 426,
+            "src": "Is Nick Greisen known for playing in the center of the field?",
+            "additional_info": "midfielder plays in the center of the field.",
+            "label": "True"
+        },
+        {
+            "id": 427,
+            "src": "Does Blanchette Brunoy speak a language that has the Cyrillic script?",
+            "additional_info": "Russian is a language in the Cyrillic script.",
+            "label": "True"
+        },
+        {
+            "id": 428,
+            "src": "Is The mother tongue of Adriaan van Dis the the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 429,
+            "src": "Does James I of Aragon believe the region created by Siddhartha Gautama?",
+            "additional_info": "Buddhism considers Siddhartha Gautama as its founder.",
+            "label": "True"
+        },
+        {
+            "id": 430,
+            "src": "Does Huangfu Mi write in the official language of the United Kingdom?",
+            "additional_info": "the official language of the United Kingdom is English.",
+            "label": "True"
+        },
+        {
+            "id": 432,
+            "src": "Is the language of Planet of the Apes widely spoken in the United Kingdom",
+            "additional_info": "Enhlish is widely spoken in the United Kingdom.",
+            "label": "True"
+        },
+        {
+            "id": 433,
+            "src": "Is the language of Guam written in the Cyrillic script?",
+            "additional_info": "Russian is a language in the Cyrillic script.",
+            "label": "True"
+        },
+        {
+            "id": 434,
+            "src": "Was Johann Gottlieb Fichte employed in the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "True"
+        },
+        {
+            "id": 435,
+            "src": "Did Henry Michell Wagner die in the Midwest of USA?",
+            "additional_info": "Chicago is in the Midwest of USA.",
+            "label": "True"
+        },
+        {
+            "id": 436,
+            "src": "Was The Rasmus established in the capital city of China?",
+            "additional_info": "the capital city of China is Beijing.",
+            "label": "True"
+        },
+        {
+            "id": 438,
+            "src": "Is Adliswil located in the country whose capital city is Berlin?",
+            "additional_info": "Berlin is the capital city of German.",
+            "label": "True"
+        },
+        {
+            "id": 439,
+            "src": "Is Irfan Habib a citizen of an island country?",
+            "additional_info": "Singapore is an island country.",
+            "label": "True"
+        },
+        {
+            "id": 441,
+            "src": "Is the people in La Chaux-de-Fonds understand the language that widely spoken in England?",
+            "additional_info": "English is widely spoken in England.",
+            "label": "True"
+        },
+        {
+            "id": 442,
+            "src": "Are Chinese Skating Association's headquarters in the capital and most populous city of the U.S. state of Indiana and the seat of Marion County?",
+            "additional_info": "Indianapolis is the capital and most populous city of the U.S. state of Indiana and the seat of Marion County.",
+            "label": "True"
+        },
+        {
+            "id": 443,
+            "src": "Can Disney's Hollywood Studios be found in Canada's most populous province?",
+            "additional_info": "Ontario is Canada's most populous province.",
+            "label": "True"
+        },
+        {
+            "id": 444,
+            "src": "Is the place where The Boat People originated known for the industrial revolution?",
+            "additional_info": "Manchester is known for the industrial revolution.",
+            "label": "True"
+        },
+        {
+            "id": 445,
+            "src": "Does Fantastyka come from a country that has kangaroos?",
+            "additional_info": "Australia is the country known for kangaroo.",
+            "label": "True"
+        },
+        {
+            "id": 446,
+            "src": "Is Alpha Island on the same continent as German?",
+            "additional_info": "German locates in Europe.",
+            "label": "True"
+        },
+        {
+            "id": 447,
+            "src": "Is Marcus Harvey native to city known for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 448,
+            "src": "Is the original language of The Register widely spoken in Italy?",
+            "additional_info": "Italian is widely spoken in Italy.",
+            "label": "True"
+        },
+        {
+            "id": 449,
+            "src": "Does Keith Emerson perform on an instrument that produces sound through string vibrations and resonance?",
+            "additional_info": "guitar is an instrument that produces sound through string vibrations and resonance.",
+            "label": "True"
+        },
+        {
+            "id": 453,
+            "src": "Does R.A. Dickey play a team sport played between two teams of 11 players each who primarily use their feet?",
+            "additional_info": "soccer is a team sport played between two teams of 11 players each who primarily use their feet.",
+            "label": "True"
+        },
+        {
+            "id": 455,
+            "src": "Did Acrassicauda originate in a place that has the landmark Big Ben?",
+            "additional_info": "London is a city where Big Ben is a famous landmark",
+            "label": "True"
+        },
+        {
+            "id": 457,
+            "src": "Does Alex Cline perform classical music?",
+            "additional_info": "Opera is a kind of classical music.",
+            "label": "True"
+        },
+        {
+            "id": 459,
+            "src": "Is Alebtong District located in the capital city of Norway?",
+            "additional_info": "The capital city of Norway is Oslo.",
+            "label": "True"
+        },
+        {
+            "id": 460,
+            "src": "Does Ralph Lyford perform a music genre originated in the African-American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "True"
+        },
+        {
+            "id": 462,
+            "src": "Did Bahamas work in the capital and largest city in the Czech Republic?",
+            "additional_info": "Prague is the capital and largest city in the Czech Republic.",
+            "label": "True"
+        },
+        {
+            "id": 463,
+            "src": "Does Jesus Christ speak the official language of the United Kingdom?",
+            "additional_info": "the official language of the United Kingdom is English.",
+            "label": "True"
+        },
+        {
+            "id": 465,
+            "src": "Does Louis Bonaparte speak the language spoken in the Netherlands?",
+            "additional_info": "the language spoken in the Netherlands is Dutch.",
+            "label": "True"
+        },
+        {
+            "id": 467,
+            "src": "Does Brendan Croker's origin in the city in Flemish province of Limburg, Belgium?",
+            "additional_info": "Bree is the city in Flemish province of Limburg, Belgium.",
+            "label": "True"
+        },
+        {
+            "id": 469,
+            "src": "Was Ostatnia brygada created in the country whose capital is Berlin?",
+            "additional_info": "Berlin is the capital city of German.",
+            "label": "True"
+        },
+        {
+            "id": 470,
+            "src": "Is William Osler a citizen of a Nordic country in Northern Europe?",
+            "additional_info": "Norway is a Nordic country in Northern Europe.",
+            "label": "True"
+        },
+        {
+            "id": 472,
+            "src": "Did Muthulakshmi Reddi die in the capital city of Spain?",
+            "additional_info": "Madrid is the capital city of Spain.",
+            "label": "True"
+        },
+        {
+            "id": 476,
+            "src": "Does Raoul Trujillo work as a public official elected by the people?",
+            "additional_info": "politician are public officials elected by the people.",
+            "label": "True"
+        },
+        {
+            "id": 477,
+            "src": "Did Tino di Camaino die in the capital city of England?",
+            "additional_info": " the capital city of England is London.",
+            "label": "True"
+        },
+        {
+            "id": 478,
+            "src": "Is the headquarter of Boston Bolts located in Michigan?",
+            "additional_info": "Detroit is located in Michigan.",
+            "label": "True"
+        },
+        {
+            "id": 479,
+            "src": "Is John Travolta a follower of a religion that considers the Quran as its holy book?",
+            "additional_info": "Islam considers the Quran as its holy book.",
+            "label": "True"
+        },
+        {
+            "id": 480,
+            "src": "Is the Infiniti QX produced by a company whose headquarters is in Italy?",
+            "additional_info": "Fiat is a company whose headquarters is in Italy.",
+            "label": "True"
+        },
+        {
+            "id": 481,
+            "src": "Is the location of the Platonic Academy considered the capital city of England?",
+            "additional_info": "the capital city of England is London.",
+            "label": "True"
+        },
+        {
+            "id": 482,
+            "src": "Does Peter Mayle write in the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 483,
+            "src": "Is La Revista Blanca from the country in Northwestern Europe?",
+            "additional_info": "Belgium is country in Northwestern Europe.",
+            "label": "True"
+        },
+        {
+            "id": 484,
+            "src": "Did Robert Stanfield work in a city known for the Brandenburg Gate?",
+            "additional_info": "Berlin is the city known for the Brandenburg Gate.",
+            "label": "True"
+        },
+        {
+            "id": 487,
+            "src": "Does Vico Magistretti use the aleph-bet alphabet for writing?",
+            "additional_info": "Hebrew is a language use the aleph-bet alphabet.",
+            "label": "True"
+        },
+        {
+            "id": 488,
+            "src": "Is the headquarters of Elsevier in a seaport city on the West Coast of the United States?",
+            "additional_info": "Seattle is a seaport city on the West Coast of the United States.",
+            "label": "True"
+        },
+        {
+            "id": 489,
+            "src": "Does Rasayana speak the same language as Leo Tolstoy?",
+            "additional_info": "Leo Tolstoy's native language is Russia.",
+            "label": "True"
+        },
+        {
+            "id": 490,
+            "src": "Does Piero Gobetti speak the language originated in England?",
+            "additional_info": "the language originated in England is English.",
+            "label": "True"
+        },
+        {
+            "id": 492,
+            "src": "Is Bakuman from the country in Southeast Asia?",
+            "additional_info": "Malaysia is a country in Southeast Asia.",
+            "label": "True"
+        },
+        {
+            "id": 493,
+            "src": "Was Vancouver Symphony Orchestra created in a country in South Asia?",
+            "additional_info": "Pakistan is a country in South Asia.",
+            "label": "True"
+        },
+        {
+            "id": 494,
+            "src": "Is the language spoken in the Netherlands the mother tongue of Miguel de Cervantes?",
+            "additional_info": "the language spoken in the Netherlands is Dutch.",
+            "label": "True"
+        },
+        {
+            "id": 495,
+            "src": "Does Bernhard Knipperdolling wear red robes?",
+            "additional_info": "cardinal wears red robes.",
+            "label": "True"
+        },
+        {
+            "id": 496,
+            "src": "Did Legg Mason originate in a place famous for Big Ben?",
+            "additional_info": "London is a city where Big Ben is a famous landmark",
+            "label": "True"
+        },
+        {
+            "id": 498,
+            "src": "Is Thomas Erle a citizen of a landlocked country in the Great Rift Valley of Central Africa?",
+            "additional_info": "Rwanda is a landlocked country in the Great Rift Valley of Central Africa.",
+            "label": "True"
+        },
+        {
+            "id": 500,
+            "src": "Does Nick Raphael originates from a city in the Midwest of the USA?",
+            "additional_info": "Chicago is a city in the Midwest of the USA.",
+            "label": "True"
+        },
+        {
+            "id": 502,
+            "src": ": Is Weekendavisen created in North America?",
+            "additional_info": "Canada is in North America.",
+            "label": "True"
+        },
+        {
+            "id": 504,
+            "src": "Is the language of La dama boba official language in England?",
+            "additional_info": "The official language in England is English.",
+            "label": "True"
+        },
+        {
+            "id": 506,
+            "src": "Does twin city of Mumbai straddles the Bosporus strait?",
+            "additional_info": "Istanbul straddles the Bosporus strait.",
+            "label": "True"
+        },
+        {
+            "id": 507,
+            "src": "Is Clark Durant native to the largest city in Pennsylvania?",
+            "additional_info": "Philadelphia is the largest city in Pennsylvania.",
+            "label": "True"
+        },
+        {
+            "id": 509,
+            "src": "Is the Florence Charterhouse located within the United States?",
+            "additional_info": "Maryland is located within the United States.",
+            "label": "True"
+        },
+        {
+            "id": 513,
+            "src": "Is Dniester located in the Earth's southernmost and least-populated continent?",
+            "additional_info": "Antarctica is in the Earth's southernmost and least-populated continent.",
+            "label": "True"
+        },
+        {
+            "id": 514,
+            "src": "Is Comhar written in the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "True"
+        },
+        {
+            "id": 515,
+            "src": "Is Bezimienni bohaterowie developed in a country known for maple syrup?",
+            "additional_info": "Canada is a country known for maple syrup.",
+            "label": "True"
+        },
+        {
+            "id": 518,
+            "src": "Did Filippa K form in the second most populous city in Canada and the most populous city in the province of Quebec?",
+            "additional_info": "Montreal is the second most populous city in Canada and the most populous city in the province of Quebec.",
+            "label": "True"
+        },
+        {
+            "id": 519,
+            "src": "Does Patricia Kohlmann hold citizenship of a island country?",
+            "additional_info": "Japan is an island country.",
+            "label": "True"
+        },
+        {
+            "id": 520,
+            "src": "Is the language of A Cage of Nightingales the official language of Nederland?",
+            "additional_info": "the official language of Nederland is Dutch.",
+            "label": "True"
+        },
+        {
+            "id": 521,
+            "src": "Does Eddie Barefield play electronic music?",
+            "additional_info": "trance is a kind of electronic music.",
+            "label": "True"
+        },
+        {
+            "id": 522,
+            "src": "Is Bultaco located in a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States?",
+            "additional_info": "Pennsylvania is the state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States.",
+            "label": "True"
+        },
+        {
+            "id": 523,
+            "src": "Does Saladin follow a religion that has the Torah as its holy book?",
+            "additional_info": "Judaism have the Torah as its holy book.",
+            "label": "True"
+        },
+        {
+            "id": 524,
+            "src": "Was The Fleetwoods founded in the capital city of the state of New South Wales, and the most populous city in Australia?",
+            "additional_info": "Sydney is the capital city of the state of New South Wales, and the most populous city in Australia.",
+            "label": "True"
+        },
+        {
+            "id": 527,
+            "src": "Was Josef Bohuslav Foerster employed in the capital city of Canada?",
+            "additional_info": "Ottawa is the capital city of Canada.",
+            "label": "True"
+        },
+        {
+            "id": 528,
+            "src": "Does Di Brandt has a citizenship from a country at the eastern edge of mainland Southeast Asia?",
+            "additional_info": "Vietnam is a country at the eastern edge of mainland Southeast Asia.",
+            "label": "True"
+        },
+        {
+            "id": 530,
+            "src": "Is Kemira headquartered in the capital of Manitoba?",
+            "additional_info": "Winnipeg is the capital of Manitoba.",
+            "label": "True"
+        },
+        {
+            "id": 531,
+            "src": "Is the capital city of Belarus where Junnar is located?",
+            "additional_info": "Belarus is the capital city of Belarus.",
+            "label": "True"
+        },
+        {
+            "id": 532,
+            "src": "Is the location of Operation Barbarossa considered known for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "True"
+        },
+        {
+            "id": 538,
+            "src": "Did Madame de Montesson expire in France?",
+            "additional_info": "Paris is in France.",
+            "label": "False"
+        },
+        {
+            "id": 539,
+            "src": "Does the country create Dual! Parallel Trouble Adventure known for anime?",
+            "additional_info": "Japan known for anime.",
+            "label": "False"
+        },
+        {
+            "id": 540,
+            "src": "Is it true that the original language of The Aeronauts is the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 543,
+            "src": "Does Scot Brantley play in the position of a defense player?",
+            "additional_info": "linebacker is a position of a defense player.",
+            "label": "False"
+        },
+        {
+            "id": 544,
+            "src": "Did Realdo Colombo's life end in Italy?",
+            "additional_info": "Rome is a city in Italy.",
+            "label": "False"
+        },
+        {
+            "id": 545,
+            "src": "Is people in the Donetsk People's Republic speak the mother tongue of Leo Tolstoy?",
+            "additional_info": "Leo Tolstoy's native language is Russia.",
+            "label": "False"
+        },
+        {
+            "id": 546,
+            "src": "Does Nina van Pallandt hold a citizenship the same as Niels Bohr?",
+            "additional_info": "Niels Bohr holds a citizenship from Denmark.",
+            "label": "False"
+        },
+        {
+            "id": 547,
+            "src": "Does Friedrich Johannes Jacob Celestin von Schwarzenberg wear red robes?",
+            "additional_info": "The cardinal wear red robes.",
+            "label": "False"
+        },
+        {
+            "id": 548,
+            "src": "Is Ba F.C. located in a country where the official language is Fijian?",
+            "additional_info": "Fiji is the country where the official language is Fijian.",
+            "label": "False"
+        },
+        {
+            "id": 551,
+            "src": "Is Duniya Na Mane widely spoken in the country known for Taj Mahal?",
+            "additional_info": "India is known for the Taj Mahal.",
+            "label": "False"
+        },
+        {
+            "id": 552,
+            "src": "Did Sherwin-Williams start in the U.S. state of Ohio?",
+            "additional_info": "Melbourne is in the U.S. state of Ohio.",
+            "label": "False"
+        },
+        {
+            "id": 553,
+            "src": "Is the University of Cambridge located in the place where Andrew Huxley passed away?",
+            "additional_info": "The University of Cambridge located in Cambridge.",
+            "label": "False"
+        },
+        {
+            "id": 555,
+            "src": "Does Jennifer Hudson speak the official language of the United Kingdom?",
+            "additional_info": "the official language of the United Kingdom is English.",
+            "label": "False"
+        },
+        {
+            "id": 557,
+            "src": "Is Spur Point located in the Southern Hemisphere?",
+            "additional_info": "Antarctica is located in the Southern Hemisphere.",
+            "label": "False"
+        },
+        {
+            "id": 561,
+            "src": "Is the mother tongue of Jean-Jacques Rousseau the official language of Roger Holeindre?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 562,
+            "src": "Does Matt Lavelle perform the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 564,
+            "src": "Does Satchel Paige professionally play a sport that requires a bat and a ball?",
+            "additional_info": "baseball is a sport requires a bat and a ball.",
+            "label": "False"
+        },
+        {
+            "id": 565,
+            "src": "Is Kandiaro Taluka located in South Asia?",
+            "additional_info": "Pakistan is located in South Asia.",
+            "label": "False"
+        },
+        {
+            "id": 567,
+            "src": "Was Orange Marmalade written in the language of Korea?",
+            "additional_info": "Korean is the official language in South Korea.",
+            "label": "False"
+        },
+        {
+            "id": 569,
+            "src": "Is Hannah Point located in the Southern Hemisphere?",
+            "additional_info": "Antarctica is located in the Southern Hemisphere.",
+            "label": "False"
+        },
+        {
+            "id": 570,
+            "src": "Is the Morozumi Range located at the South Pole?",
+            "additional_info": "Antarctica is at the South Pole.",
+            "label": "False"
+        },
+        {
+            "id": 571,
+            "src": "Does Joseph Milner use the English alphabet?",
+            "additional_info": "Who speaks English can use the English alphabet.",
+            "label": "False"
+        },
+        {
+            "id": 572,
+            "src": "Does Dolly Wells possess the skill of acting?",
+            "additional_info": "An actor possess the skill of acting.",
+            "label": "False"
+        },
+        {
+            "id": 573,
+            "src": "Is Willie Bobo known for performing the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 576,
+            "src": "Does Albrecht Kossel study cells in his domain of activity?",
+            "additional_info": "physiology studys cells.",
+            "label": "False"
+        },
+        {
+            "id": 577,
+            "src": "Does Loose Tubes play the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 579,
+            "src": "Does Rajendra Prasad use the official language of India?",
+            "additional_info": "the official language of India is Hindi.",
+            "label": "False"
+        },
+        {
+            "id": 583,
+            "src": "Does Jean Marot speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 585,
+            "src": "Is Alva Myrdal's place of work the capital of Sweden?",
+            "additional_info": "Stockholm is the capital of Sweden.",
+            "label": "False"
+        },
+        {
+            "id": 589,
+            "src": "Is Matias Kupiainen from the capital of Finland?",
+            "additional_info": "The capital of Finland is Helsinki.",
+            "label": "False"
+        },
+        {
+            "id": 590,
+            "src": "Was John Schumann and the Vagabond Crew formed in Australia?",
+            "additional_info": "Adelaide is a city in Australia.",
+            "label": "False"
+        },
+        {
+            "id": 591,
+            "src": "Is Max Neal native to the capital and most populous city of the Free State of Bavaria?",
+            "additional_info": "Munich is the capital and most populous city of the Free State of Bavaria.",
+            "label": "False"
+        },
+        {
+            "id": 593,
+            "src": "Is the official language of England spoken in Netherlands Antilles?",
+            "additional_info": "The official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 595,
+            "src": "Does Albrecht Weber come from the country treat German as the official language?",
+            "additional_info": "Germany treats German as the official language.",
+            "label": "False"
+        },
+        {
+            "id": 596,
+            "src": "Is the language spoken in Canton of Fribourg originated from Germany",
+            "additional_info": "German is a language originated from Germany.",
+            "label": "False"
+        },
+        {
+            "id": 598,
+            "src": " Is Oslo the capital of the place where Sarke originated?",
+            "additional_info": "Oslo is the capital of Norway.",
+            "label": "False"
+        },
+        {
+            "id": 599,
+            "src": "Does Yazid I follow the religion that considers Muhammad as the prophet?",
+            "additional_info": "Islam is the religion that considers Muhammad as the prophet.",
+            "label": "False"
+        },
+        {
+            "id": 601,
+            "src": "Is the capital of German where Otto Hauser took up work?",
+             "additional_info": "The capital of German is Berlin.",
+            "label": "False"
+        },
+        {
+            "id": 602,
+            "src": "Did Gregory XVI succumb at the capital of Italy?",
+            "additional_info": "the capital of Italy is Rome.",
+            "label": "False"
+        },
+        {
+            "id": 603,
+            "src": "Does Germaine Greer advocate for gender equality?",
+            "additional_info": "The expert in feminism often advocates for gender equality.",
+            "label": "False"
+        },
+        {
+            "id": 606,
+            "src": "Does the religion of Tang Empire Siddhartha Gautama as the founder of his religion?",
+            "additional_info": "Buddhism considers Siddhartha Gautama as its founder.",
+            "label": "False"
+        },
+        {
+            "id": 607,
+            "src": "Does Glen Ballard play play an instrument that has six strings?",
+            "additional_info": "guitar is an instrument that has six strings.",
+            "label": "False"
+        },
+        {
+            "id": 608,
+            "src": "Does Erik Pauelsen have Danish as his mother tongue?",
+            "additional_info": "People in Denmark have Danish as the mother tongue.",
+            "label": "False"
+        },
+        {
+            "id": 610,
+            "src": "Does Helen Sung play the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 611,
+            "src": "Does the original language of The Easy Life the official language of Italy?",
+            "additional_info": "the official language of Italy is Italian.",
+            "label": "False"
+        },
+        {
+            "id": 612,
+            "src": "Is the city where Neko Entertainment was formed the capital of France?",
+            "additional_info": "The capital of France is Paris.",
+            "label": "False"
+        },
+        {
+            "id": 614,
+            "src": "Is Maria Altmann's place of origin the capital city of Austria?",
+            "additional_info": "Vienna is the capital city of Austria.",
+            "label": "False"
+        },
+        {
+            "id": 618,
+            "src": "Does Kokkola and Finland has the same official language?",
+            "additional_info": "The offcial language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 621,
+            "src": "Is John McAllion native to the most populous city in Scotland?",
+            "additional_info": "Glasgow is the most populous city in Scotland.",
+            "label": "False"
+        },
+        {
+            "id": 624,
+            "src": "Is Paul Gorguloff's life ended in the capital city of France?",
+            "additional_info": "the capital city of France is Paris.",
+            "label": "False"
+        },
+        {
+            "id": 627,
+            "src": "Is the official language of Toine Manders the same as the offcial language of Netherlands?",
+            "additional_info": "the offcial language of Netherlands is Dutch.",
+            "label": "False"
+        },
+        {
+            "id": 631,
+            "src": "Does Edward Yang use a tonal language?",
+            "additional_info": "Chinese is a tonal language.",
+            "label": "False"
+        },
+        {
+            "id": 634,
+            "src": "Was Louise Schroeder employed in the capital of German?",
+             "additional_info": "The capital of German is Berlin.",
+            "label": "False"
+        },
+        {
+            "id": 638,
+            "src": "Is LG Chem's headquarters in Korea?",
+            "additional_info": "Seoul is in Korea.",
+            "label": "False"
+        },
+        {
+            "id": 640,
+            "src": "Is Ilta-Sanomat written in the official language of Finland?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 643,
+            "src": "Does Ibn Shihab al-Zuhri follow the holy book Quran?",
+            "additional_info": "Islam considers the Quran as its holy book.",
+            "label": "False"
+        },
+        {
+            "id": 644,
+            "src": "Does Emmanuelle Devos have the skill of acting?",
+            "additional_info": "An actor have the skill of acting.",
+            "label": "False"
+        },
+        {
+            "id": 645,
+            "src": "Does Hubert von Luschka study the human body?",
+            "additional_info": "domain of anatomy need to study the human body.",
+            "label": "False"
+        },
+        {
+            "id": 647,
+            "src": "Does John Ashburnham, 1st Baron Ashburnham serve as a government representative?",
+            "additional_info": "politician are government representatives.",
+            "label": "False"
+        },
+        {
+            "id": 648,
+            "src": "Does Heyday Films have its headquarters in the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 651,
+            "src": "Is Boston the state capital where Barnstable (village) is located?",
+            "additional_info": "the state capital of Massachusetts is Boston.",
+            "label": "False"
+        },
+        {
+            "id": 652,
+            "src": "Is the twin city of Coventry famous for porcelain?",
+            "additional_info": "Dresden is a city famous for porcelain.",
+            "label": "False"
+        },
+        {
+            "id": 653,
+            "src": "Does Abdurrahman Wahid believe the religion created by Muhammad?",
+            "additional_info": "Islam is the religion created by Muhammad.",
+            "label": "False"
+        },
+        {
+            "id": 654,
+            "src": "Does Ferdinand Meldahl come from the country where people speak Danish?",
+            "additional_info": "People from Denmark speak Danish.",
+            "label": "False"
+        },
+        {
+            "id": 658,
+            "src": "Does Bailey Peninsula belong to the continent surrounded by the Southern Ocean?",
+            "additional_info": "Antarctica is the continent surrounded by the Southern Ocean.",
+            "label": "False"
+        },
+        {
+            "id": 659,
+            "src": "Does Yahya Petra of Kelantan come from the country treat Malay as its official language?",
+            "additional_info": "Malaysia is the country treats Malay as its official language.",
+            "label": "False"
+        },
+        {
+            "id": 662,
+            "src": "Does Gene Amdahl work for a company that has its headquarters in Armonk, New York?",
+            "additional_info": "IBM is a company that has its headquarters in Armonk, New York.",
+            "label": "False"
+        },
+        {
+            "id": 664,
+            "src": "Does Kenta Fukasaku holds a citizenship from the country known for sushi?",
+            "additional_info": "Japan is the country famous for sushi.",
+            "label": "False"
+        },
+        {
+            "id": 665,
+            "src": "Did the show 'Men into Space' make its debut on a television network that was established in 1927?",
+            "additional_info": "CBS is a television network that was established in 1927.",
+            "label": "False"
+        },
+        {
+            "id": 670,
+            "src": " Does Ariake Coliseum's owner have a population to be 14 million?",
+            "additional_info": "Tokyo is a city have a population to be 14 million.",
+            "label": "False"
+        },
+        {
+            "id": 672,
+            "src": "Does Jean Debucourt write in the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 673,
+            "src": "Does Sal Mosca play the pianists' music?",
+            "additional_info": "Who play piano can play pianists' music.",
+            "label": "False"
+        },
+        {
+            "id": 675,
+            "src": "Does Ivan Ivanov-Vano speak the mother tongue of Leo Tolstoy?",
+            "additional_info": "Leo Tolstoy's native language is Russia.",
+            "label": "False"
+        },
+        {
+            "id": 678,
+            "src": "Did Isidor Philipp pass away in the capital of France?",
+            "additional_info": "The capital of France is Paris.",
+            "label": "False"
+        },
+        {
+            "id": 680,
+            "src": "Is the Poeten og Lillemor og Lotte created in a country located in Europe?",
+            "additional_info": "Denmark is a country located in Europe.",
+            "label": "False"
+        },
+        {
+            "id": 681,
+            "src": "Does the law in Posio declare that the offcial language spoken in Finland?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 682,
+            "src": "Is The Red Sea Sharks use the offcial language of France the language?",
+            "additional_info": "the offcial language of France is French.",
+            "label": "False"
+        },
+        {
+            "id": 684,
+            "src": "Is London the capital of the United Kingdom where John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair was employed?",
+            "additional_info": "The capital of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 687,
+            "src": "Do Oulu and Finland have the same official language?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 690,
+            "src": "Are the Harold Byrd Mountains located on the continent known for having polar ice caps?",
+            "additional_info": "Antarctica is known for having polar ice caps.",
+            "label": "False"
+        },
+        {
+            "id": 691,
+            "src": "Does Terry Trotter play pianists' music?",
+            "additional_info": "Who play piano can play pianists' music.",
+            "label": "False"
+        },
+        {
+            "id": 692,
+            "src": "Is the twin city of Rotterdam connected by the Bosphorus Strait?",
+            "additional_info": "Istanbul is connected by the Bosphorus Strait.",
+            "label": "False"
+        },
+        {
+            "id": 694,
+            "src": "Is Alestorm originated in Australia?",
+            "additional_info": "Perth is a city in Australia. ",
+            "label": "False"
+        },
+        {
+            "id": 695,
+            "src": "Is Francesco Calogero a citizen of the country famous for pizza?",
+            "additional_info": "Italy is famous for pizza.",
+            "label": "False"
+        },
+        {
+            "id": 696,
+            "src": " Is Jessica Jones a member of the group consisting of superheroes?",
+            "additional_info": "Avengers is a group consisting of superheroes.",
+            "label": "False"
+        },
+        {
+            "id": 698,
+            "src": "Was Carl Gustav Carus employed in the capital of Saxony?",
+            "additional_info": "Dresden is the capital of Saxony.",
+            "label": "False"
+        },
+        {
+            "id": 700,
+            "src": " Is a city in the United Kingdom as Shanghai's twin city?",
+            "additional_info": "London is a city in the United Kingdom.",
+            "label": "False"
+        },
+        {
+            "id": 701,
+            "src": " Is English the official language of Material World?",
+            "additional_info": "The offcial language of Canada is English.",
+            "label": "False"
+        },
+        {
+            "id": 702,
+            "src": "Did Enrico Barone's life end in Italy?",
+            "additional_info": "Rome is a city in Italy.",
+            "label": "False"
+        },
+        {
+            "id": 711,
+            "src": "Does Robert A. Millikan study matter and energy as part of his domain of activity?",
+            "additional_info": "Who study physics can study matter and energy.",
+            "label": "False"
+        },
+        {
+            "id": 718,
+            "src": "Did John D. Rockefeller take up work in a city known for the Rock and Roll Hall of Fame?",
+            "additional_info": "Cleveland is a city known for the Rock and Roll Hall of Fame.",
+            "label": "False"
+        },
+        {
+            "id": 720,
+            "src": "Does Martin Brodeur play in the position requires skillful at blocking shots?",
+            "additional_info": "goaltender requires skillful at blocking shots.",
+            "label": "False"
+        },
+        {
+            "id": 723,
+            "src": "Is the capital city of Finland where Juho Kusti Paasikivi worked?",
+            "additional_info": "The capital city of Finland is Helsinki.",
+            "label": "False"
+        },
+        {
+            "id": 725,
+            "src": "Is Crystal Palace Baltimore located in the United States?",
+            "additional_info": "Baltimore is located in the United States.",
+            "label": "False"
+        },
+        {
+            "id": 728,
+            "src": "Does Johann von Rist write poetry?",
+            "additional_info": "A poet write poetry.",
+            "label": "False"
+        },
+        {
+            "id": 729,
+            "src": "Does Lon Chaney speak the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 733,
+            "src": "Does Casey Matthews require physical strength to play?",
+            "additional_info": "A linebacker requires physical strength to play.",
+            "label": "False"
+        },
+        {
+            "id": 742,
+            "src": "Does Harlem Hamfats play a music genre that originated from African American culture?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 744,
+            "src": "Does Orestis Laskos has a citizen of the country treats Greek as the official language of?",
+            "additional_info": "Greece is the country treats Greek as the official language.",
+            "label": "False"
+        },
+        {
+            "id": 745,
+            "src": "Does Vitaly Margulis produce music with the piano?",
+            "additional_info": "People who play music can produce music with the piano.",
+            "label": "False"
+        },
+        {
+            "id": 746,
+            "src": " Is Yona Friedman from the capital city of Hungary?",
+            "additional_info": "the capital city of Hungary is Budapest.",
+            "label": "False"
+        },
+        {
+            "id": 748,
+            "src": "Does Josephine Wiggs play play an instrument with six strings?",
+            "additional_info": "Guitar is an instrument with six strings.",
+            "label": "False"
+        },
+        {
+            "id": 749,
+            "src": "Are Afghanistan and Singapore on the same continent?",
+            "additional_info": "Singapore locates in Asia.",
+            "label": "False"
+        },
+        {
+            "id": 752,
+            "src": "Is George Dance the Younger's life ended in the capital of the United Kingdom?",
+            "additional_info": "The capital of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 753,
+            "src": "Is Munzir ibn Sawa Al Tamimi affiliated with the religion created by Muhammad?",
+            "additional_info": "Islam is the religion created by Muhammad.",
+            "label": "False"
+        },
+        {
+            "id": 754,
+            "src": "Is the Pagan Federation headquartered in the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 758,
+            "src": "Does An Englishman Abroad speak the language spoken in England?",
+            "additional_info": "the language spoken in England is English.",
+            "label": "False"
+        },
+        {
+            "id": 759,
+            "src": "Is the headquarters of Artnet located in the capital of German?",
+            "additional_info": "The capital of German is Berlin.",
+            "label": "False"
+        },
+        {
+            "id": 763,
+            "src": "Dose INXS formulate in the country known for kangaroos?",
+            "additional_info": "Australia is the country known for kangaroo.",
+            "label": "False"
+        },
+        {
+            "id": 764,
+            "src": "Does the Costa Rican Football Federation is a member of the organization governing international football?",
+            "additional_info": "FIFA govern international football.",
+            "label": "False"
+        },
+        {
+            "id": 765,
+            "src": "Is people in Calw speak German?",
+            "additional_info": "Germany is the offcial language in Germany.",
+            "label": "False"
+        },
+        {
+            "id": 767,
+            "src": "Does Elton Brand professionally play a team sport in which two teams, most commonly of five players each?",
+            "additional_info": "Basketball is a team sport in which two teams, most commonly of five players each.",
+            "label": "False"
+        },
+        {
+            "id": 769,
+            "src": "Does The Broken Ear use the language widely spoken in France?",
+            "additional_info": "French is the language widely spoken in France.",
+            "label": "False"
+        },
+        {
+            "id": 773,
+            "src": "Does Maurice Renard speak the official language of France?",
+            "additional_info": "The official language of France is French.",
+            "label": "False"
+        },
+        {
+            "id": 774,
+            "src": "Does Cutie Honey originate in the country known for anime?",
+            "additional_info": "Japan is the country known for anime.",
+            "label": "False"
+        },
+        {
+            "id": 776,
+            "src": "Does Enchin consider Siddhartha Gautama as the founder of his religion?",
+            "additional_info": "Buddhism considers Siddhartha Gautama as its founder.",
+            "label": "False"
+        },
+        {
+            "id": 777,
+            "src": "Does Johan De Farfalla play an instrument with six strings?",
+            "additional_info": "Guitar is an instrument with six strings.",
+            "label": "False"
+        },
+        {
+            "id": 778,
+            "src": "Is the capital of France where Pierre Laval worked?",
+            "additional_info": "The capital of France is Paris.",
+            "label": "False"
+        },
+        {
+            "id": 779,
+            "src": "Is Gazzola in a country famous for pizza?",
+            "additional_info": "Italy is famous for pizza.",
+            "label": "False"
+        },
+        {
+            "id": 780,
+            "src": "Does the law in European Union declare to use the official language of Sweden?",
+            "additional_info": "The offcial language of Sweden is Swedish.",
+            "label": "False"
+        },
+        {
+            "id": 784,
+            "src": "Did Emil Hass Christensen's life end in Northern Europe?",
+            "additional_info": "Denmark is in Northern Europe.",
+            "label": "False"
+        },
+        {
+            "id": 786,
+            "src": "Is Panteion University in the capital of Greece?",
+            "additional_info": "The capital of Greece is Athens.",
+            "label": "False"
+        },
+        {
+            "id": 787,
+            "src": "Does Henri Decoin speak the official language of France?",
+            "additional_info": "The official language of France is French.",
+            "label": "False"
+        },
+        {
+            "id": 789,
+            "src": "Is the capital city of the United Kingdom where James Nares expired?",
+            "additional_info": "The capital of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 791,
+            "src": "Does Lynda Clark, Baroness Clark of Calton, work in the capital of the United Kingdom?",
+            "additional_info": "The capital of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 796,
+            "src": "Does Raheem Shah have Urdu as his official language?",
+            "additional_info": "People in Pakistan have Urdu as the official language.",
+            "label": "False"
+        },
+        {
+            "id": 800,
+            "src": "Does Suomussalmi and Finland have the same official language?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 803,
+            "src": "Is the mother tongue of Leo Tolstoy widely spoken in the Republic of Bashkortostan?",
+            "additional_info": "Leo Tolstoy's native language is Russia.",
+            "label": "False"
+        },
+        {
+            "id": 808,
+            "src": "Is the twin city of the capital of Greece?",
+            "additional_info": "The capital of Greece is Athens.",
+            "label": "False"
+        },
+        {
+            "id": 809,
+            "src": "Does Pierre Paradis serve as a government representative?",
+            "additional_info": "politician can serve as a government representative.",
+            "label": "False"
+        },
+        {
+            "id": 810,
+            "src": " Did Hot Chip start in the city of England?",
+            "additional_info": "London is a city in England.",
+            "label": "False"
+        },
+        {
+            "id": 811,
+            "src": "Is Margaret Walker's place of passing located in the United States?",
+            "additional_info": "Chicago is in the United States.",
+            "label": "False"
+        },
+        {
+            "id": 812,
+            "src": "Is Budapest the twin city of the capital of German?",
+            "additional_info": "The capital of German is Berlin.",
+            "label": "False"
+        },
+        {
+            "id": 813,
+            "src": "Is Nousiaine speak the official language of Finland?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 814,
+            "src": "Is people in Lugano and Italy speak the same language?",
+            "additional_info": "The offcial language of Italy is Italian.",
+            "label": "False"
+        },
+        {
+            "id": 816,
+            "src": "Is Australia Robert Raymond's place of passing away?",
+            "additional_info": "Sydney is a city in Australia.",
+            "label": "False"
+        },
+        {
+            "id": 817,
+            "src": "Does Louis Jouvet speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 819,
+            "src": "Does Robert Naunton write in the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 820,
+            "src": "Does Claude Rich speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 822,
+            "src": "Does Teddy Bridgewater throw the football?",
+            "additional_info": "quarterback throws the football.",
+            "label": "False"
+        },
+        {
+            "id": 823,
+            "src": "Is Michael Lipman from the capital of England?",
+            "additional_info": "The capital of England is London.",
+            "label": "False"
+        },
+        {
+            "id": 824,
+            "src": "Did Aleksey Belevsky-Zhukovsky's life end in a mountainous region?",
+            "additional_info": "Caucasus is in a mountainous region.",
+            "label": "False"
+        },
+        {
+            "id": 826,
+            "src": "Is the capital of German where Willy Brandt used to work?",
+            "additional_info": "The capital of German is Berlin.",
+            "label": "False"
+        },
+        {
+            "id": 831,
+            "src": "Is Altare della Patria within Italy?",
+            "additional_info": "Rome is in Italy.",
+            "label": "False"
+        },
+        {
+            "id": 833,
+            "src": "Does Pentti Linkola use the official language of Finland?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 836,
+            "src": "Is the headquarter of Cinven located in the United Kingdom?",
+            "additional_info": "London is in the United Kingdom.",
+            "label": "False"
+        },
+        {
+            "id": 837,
+            "src": "Does Blaise Pascal speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 839,
+            "src": "Is Diane Hendricks from a state in the upper Midwestern United States?",
+            "additional_info": "Wisconsin is a state in the upper Midwestern United States.",
+            "label": "False"
+        },
+        {
+            "id": 844,
+            "src": "Is Gabrielle Beaumont originally from the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 845,
+            "src": "Does Jean Giraudoux speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 846,
+            "src": "Does Kurt Furgler serve as a government representative?",
+            "additional_info": "the politician serve as a government representative.",
+            "label": "False"
+        },
+        {
+            "id": 847,
+            "src": "Do Raseborg and Finland have the same offcial language?",
+            "additional_info": "The official language of Finland is Finnish.",
+            "label": "False"
+        },
+        {
+            "id": 848,
+            "src": "Does the law in Organization for Security and Co-operation in Europe declare the mother tongue of Jean-Jacques Rousseau as the official language?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 849,
+            "src": "Is Assiginack in Central Canada?",
+            "additional_info": "Ontario is in Central Canada.",
+            "label": "False"
+        },
+        {
+            "id": 851,
+            "src": "Is the language spoken by Paul Personne originated in France?",
+            "additional_info": "French is originated in France.",
+            "label": "False"
+        },
+        {
+            "id": 852,
+            "src": "Is Istanbul Technical University located in a place that has the Bosphorus Strait?",
+            "additional_info": "Istanbul has the Bosphorus Strait.",
+            "label": "False"
+        },
+        {
+            "id": 854,
+            "src": " Does The Renovator formlate in the country known for kangaroos?",
+            "additional_info": "Australia is the country known for kangaroo.",
+            "label": "False"
+        },
+        {
+            "id": 856,
+            "src": "Does Raymond Smith Dugan study celestial objects in his domain of activity?",
+            "additional_info": "Who studies astronomy can study celestial objects.",
+            "label": "False"
+        },
+        {
+            "id": 858,
+            "src": "Is the headquarter of Strait Shipping located in the capital of New Zealand?",
+            "additional_info": "Wellington is the capital of New Zealand.",
+            "label": "False"
+        },
+        {
+            "id": 859,
+            "src": "Does Abu Sufyan ibn Harb follow the religion created by Muhammad?",
+            "additional_info": "Islam is the religion created by Muhammad.",
+            "label": "False"
+        },
+        {
+            "id": 862,
+            "src": "Does Stuart Parkin study matter and energy?",
+            "additional_info": "Who studies physics can study matter and energy.",
+            "label": "False"
+        },
+        {
+            "id": 863,
+            "src": "Does Jaishankar's citizenship belong to a country in South Asia?",
+            "additional_info": "India is a country in South Asia.",
+            "label": "False"
+        },
+        {
+            "id": 864,
+            "src": " Does Pierre Janssen from a country considers Paris as its capital?",
+            "additional_info": "France is the country considers Paris as its capital.",
+            "label": "False"
+        },
+        {
+            "id": 865,
+            "src": "Is Vincent van Gogh work in the city famous for Van Gogh Museum?",
+            "additional_info": "Amsterdam is the city famous for Van Gogh Museum.",
+            "label": "False"
+        },
+        {
+            "id": 867,
+            "src": "Is the climate of Mount Fridtjof Nansen known for its extreme cold?",
+            "additional_info": "The Mountains in Antarctica are known for its extreme cold.",
+            "label": "False"
+        },
+        {
+            "id": 869,
+            "src": "Does Mariano Rivera play with a bat and a ball?",
+            "additional_info": "Who plays baseball need a bat and a ball.",
+            "label": "False"
+        },
+        {
+            "id": 872,
+            "src": " Does Andrew Carnegie speak the language originated in England?",
+            "additional_info": "English is the language originated in England.",
+            "label": "False"
+        },
+        {
+            "id": 873,
+            "src": "Did Jules Bordet die in Belgium?",
+            "additional_info": "Brussels is a city in Belgium.",
+            "label": "False"
+        },
+        {
+            "id": 876,
+            "src": "Did Christoph Willibald von Gluck find employment in the capital city of Austria?",
+            "additional_info": "Vienna is the capital city of Austria.",
+            "label": "False"
+        },
+        {
+            "id": 878,
+            "src": "Does Kim Myhr have a citizenship from a country in Scandinavia?",
+            "additional_info": "Norway is a country in Scandinavia.",
+            "label": "False"
+        },
+        {
+            "id": 880,
+            "src": " Is Kotturpuram in a city in India?",
+            "additional_info": "Chennai is a city in India.",
+            "label": "False"
+        },
+        {
+            "id": 881,
+            "src": "Does John Coltrane play the saxophone in his area of work?",
+            "additional_info": "Jazz need saxophone.",
+            "label": "False"
+        },
+        {
+            "id": 884,
+            "src": "Is Borovsky District in a country known for the Trans-Siberian Railway?",
+            "additional_info": "Russia is the country known for the Trans-Siberian Railway.",
+            "label": "False"
+        },
+        {
+            "id": 885,
+            "src": "Does Michael Bisio play the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 886,
+            "src": "Does Philip Henry Wicksteed speak the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 888,
+            "src": "Did Marek Edelman work in the capital city of Poland?",
+            "additional_info": "the capital city of Poland is Warsaw.",
+            "label": "False"
+        },
+        {
+            "id": 889,
+            "src": "Does Earl Zindars compose the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 890,
+            "src": "Does Pierre Brasseur speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 891,
+            "src": "Is the original language of Haemoo widely spoken in South Korea?",
+            "additional_info": "Korean is widely spoken in South Korea.",
+            "label": "False"
+        },
+        {
+            "id": 894,
+            "src": "Does Saint David believe in Jesus as the founder of his religion?",
+            "additional_info": "Christianity is a religion believes in Jesus as the founder.",
+            "label": "False"
+        },
+        {
+            "id": 897,
+            "src": "Is Victor Varnado from a city in Indiana?",
+            "additional_info": "Gary is a city in Indiana.",
+            "label": "False"
+        },
+        {
+            "id": 900,
+            "src": "Is Alois Senefelder's place of work the capital of Bavaria?",
+            "additional_info": "Munich is the capital of Bavaria.",
+            "label": "False"
+        },
+        {
+            "id": 901,
+            "src": " Does Freek de Jonge speak the official language of the Netherlands?",
+            "additional_info": "Dutch is the official language of the Netherlands.",
+            "label": "False"
+        },
+        {
+            "id": 904,
+            "src": "Does Richard Sorge speak German?",
+            "additional_info": "Germany is the offcial language in Germany.",
+            "label": "False"
+        },
+        {
+            "id": 905,
+            "src": "Does Johan Gottschalk Wallerius speak the official language of Sweden?",
+            "additional_info": "Swedish is the offcial language of Sweden.",
+            "label": "False"
+        },
+        {
+            "id": 906,
+            "src": "Does Olivier Dahan write in the language spoken in France?",
+            "additional_info": "French is the language widely spoken in France.",
+            "label": "False"
+        },
+        {
+            "id": 907,
+            "src": "Is University of Vermont in the most populous city in the U.S. state of Vermont and the seat of Chittenden County?",
+            "additional_info": "Burlington is the most populous city in the U.S. state of Vermont and the seat of Chittenden County.",
+            "label": "False"
+        },
+        {
+            "id": 909,
+            "src": "Does Pierre Reverdy speak  the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 910,
+            "src": "Is Wildscreen located in England?",
+            "additional_info": "Bristol is in England.",
+            "label": "False"
+        },
+        {
+            "id": 912,
+            "src": "Is Maximilien Rubel's succumbed location the capital of France?",
+            "additional_info": "The capital of France is Paris.",
+            "label": "False"
+        },
+        {
+            "id": 913,
+            "src": "Does Gary Carter require a bat to play?",
+            "additional_info": "Who play baseball need a bat to play.",
+            "label": "False"
+        },
+        {
+            "id": 916,
+            "src": "Does Boris Souvarine die in a city famous for the Louvre?",
+            "additional_info": "Paris is a city famous for the Louvre.",
+            "label": "False"
+        },
+        {
+            "id": 917,
+            "src": "Does Eibenstock locate in a country known for Oktoberfest?",
+            "additional_info": "Germany is a country known for Oktoberfest.",
+            "label": "False"
+        },
+        {
+            "id": 920,
+            "src": "Do the Companions of the Prophet follow a religion created by Muhammad?",
+            "additional_info": "Islam is a religion created by Muhammad.",
+            "label": "False"
+        },
+        {
+            "id": 922,
+            "src": "Did David Tree play the famous role?",
+            "additional_info": "An actor plays famous role.",
+            "label": "False"
+        },
+        {
+            "id": 924,
+            "src": "Is Gangseo District one of the districts in Korea?",
+            "additional_info": "Seoul is in Korea.",
+            "label": "False"
+        },
+        {
+            "id": 925,
+            "src": "Is Miller Range located in the Southern Hemisphere?",
+            "additional_info": "Antarctica is in Southern Hemisphere.",
+            "label": "False"
+        },
+        {
+            "id": 928,
+            "src": "Does Christophor Araratov's country have Yerevan as its capital city?",
+            "additional_info": "Armenia's capital city is Yerevan.",
+            "label": "False"
+        },
+        {
+            "id": 930,
+            "src": "Does Kyoto University consider Japanese as its official language?",
+            "additional_info": "The Universities is Japan consider Japanese as their official language.",
+            "label": "False"
+        },
+        {
+            "id": 938,
+            "src": "Is the headquarters of Amalgamated Wireless located in a country comprising the mainland of the Australian continent?",
+            "additional_info": "Sydney is in located in a country comprising the mainland of the Australian continent.",
+            "label": "False"
+        },
+        {
+            "id": 942,
+            "src": " Is HSBC Bank Malta in an island country in Southern Europe, located in the Mediterranean Sea?",
+            "additional_info": "Malta is an island country in Southern Europe.",
+            "label": "False"
+        },
+        {
+            "id": 944,
+            "src": "Is the official language of England spoken in Malawi according to the law?",
+            "additional_info": "The official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 946,
+            "src": "Is the official language of Spain widely spoken in Equatorial Guinea?",
+            "additional_info": "the official language of Spain is Spanish.",
+            "label": "False"
+        },
+        {
+            "id": 947,
+            "src": "Is Crown Peak located in a continent known for its extreme cold climate?",
+            "additional_info": "Antarctica is a continent known for its extreme cold climate.",
+            "label": "False"
+        },
+        {
+            "id": 953,
+            "src": "Is the official language of Italy spoken in the Kingdom of Tavolara?",
+            "additional_info": "the official language of Italy is Italian.",
+            "label": "False"
+        },
+        {
+            "id": 954,
+            "src": "Is Tower Island in a continent known for having penguins?",
+            "additional_info": "Antarctica is a continent known for having penguins.",
+            "label": "False"
+        },
+        {
+            "id": 955,
+            "src": "Does Largo Winch II speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 957,
+            "src": "Does Greta Van Susteren work for a company whose headquarters in Atlanta?",
+            "additional_info": "CNN is a company whose headquarters in Atlanta.",
+            "label": "False"
+        },
+        {
+            "id": 958,
+            "src": "Is the capital of Scotland where James Young Simpson passed away?",
+            "additional_info": "Edinburgh is the capital of Scotland.",
+            "label": "False"
+        },
+        {
+            "id": 959,
+            "src": " Do International Olympic Committee state and England use the same official language?",
+            "additional_info": "the same official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 960,
+            "src": "Is Money No Enough from an island country and city-state in maritime Southeast Asia?",
+            "additional_info": "Singapore is an island country and city-state in maritime Southeast Asia.",
+            "label": "False"
+        },
+        {
+            "id": 961,
+            "src": "Does Malcolm Arthur Smith have a specialization in cardiology?",
+            "additional_info": "physician has a specialization in cardiology.",
+            "label": "False"
+        },
+        {
+            "id": 964,
+            "src": "Does Arthur Grumiaux play the pianists' music?",
+            "additional_info": "Who play piano can play pianists' music.",
+            "label": "False"
+        },
+        {
+            "id": 965,
+            "src": "Does John Skelton speak the official language of England?",
+            "additional_info": "The official language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 966,
+            "src": "Does Imanol Landeta use Spanish as the official language of his citizenship?",
+            "additional_info": "the official language of Spain is Spanish.", 
+            "label": "False"
+        },
+        {
+            "id": 967,
+            "src": "Does Kalraj Mishra belong to a country in South Asia?",
+            "additional_info": "India is a country in South Asia.",
+            "label": "False"
+        },
+        {
+            "id": 968,
+            "src": " Does SFJAZZ Collective play the music origin from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 971,
+            "src": " Is Ultraman Dyna's origin in a country famous for comics and animation?",
+            "additional_info": "Japan is a country famous for comics and animation.",
+            "label": "False"
+        },
+        {
+            "id": 972,
+            "src": "Is the capital city of Russia the twin city of Tehran?",
+            "additional_info": "The capital city of Russia is Moscow.",
+            "label": "False"
+        },
+        {
+            "id": 973,
+            "src": "Does Chu Lai Base Area use Vietnamese as its official language?",
+            "additional_info": "The area in Vietnam use Vietnamese as its official language.",
+            "label": "False"
+        },
+        {
+            "id": 979,
+            "src": "Does Two English Girls's language the original language of England?",
+            "additional_info": "the original language of England is English.",
+            "label": "False"
+        },
+        {
+            "id": 982,
+            "src": "Does Larry Knechtel play an instrument that has six strings?",
+            "additional_info": "guitar is an instrument that has six strings.",
+            "label": "False"
+        },
+        {
+            "id": 985,
+            "src": "Does Robert David Hall possess the skill of acting?",
+            "additional_info": "An actor possess the skill of acting.",
+            "label": "False"
+        },
+        {
+            "id": 986,
+            "src": "Does Andrew Jacobson have the role of a playmaker?",
+            "additional_info": "midfielder is a role of a playmaker.",
+            "label": "False"
+        },
+        {
+            "id": 988,
+            "src": "Does Frederik Kaiser study celestial objects in his domain of activity?",
+            "additional_info": "astronomy studies celestial objects.",
+            "label": "False"
+        },
+        {
+            "id": 992,
+            "src": "Is Mount Saint Elias located in a U.S. state on the northwest extremity of North America?",
+            "additional_info": "Alaska is a U.S. state on the northwest extremity of North America.",
+            "label": "False"
+        },
+        {
+            "id": 998,
+            "src": "Is Adolf Schreyer originally from Germany?",
+            "additional_info": "Frankfurt is a city in Germany.",
+            "label": "False"
+        },
+        {
+            "id": 1000,
+            "src": "Is the headquarters of Physikalisch-Technische Bundesanstalt in Germany?",
+            "additional_info": "Brunswick is a city in Germany.",
+            "label": "False"
+        },
+        {
+            "id": 1001,
+            "src": "Was Michel Brault born in a city located in Canada?",
+            "additional_info": "Montreal is a city in Canada.",
+            "label": "False"
+        },
+        {
+            "id": 1004,
+            "src": "Does Emma Pask from the capital city of the state of New South Wales, and the most populous city in Australia?",
+            "additional_info": "Sydney is capital city of the state of New South Wales, and the most populous city in Australia.",
+            "label": "False"
+        },
+        {
+            "id": 1006,
+            "src": "Is Beetham Organization based in England?",
+            "additional_info": "Liverpool is in England.",
+            "label": "False"
+        },
+        {
+            "id": 1011,
+            "src": "Is the headquarter of the Hellenic Army located in the capital of Greece?",
+             "additional_info": "The capital of Greece is Athens.",
+            "label": "False"
+        },
+        {
+            "id": 1014,
+            "src": "Did Edward Flatau find employment in the capital city of Poland?",
+            "additional_info": "the capital city of Poland is Warsaw.",
+            "label": "False"
+        },
+        {
+            "id": 1016,
+            "src": "Did Bruce Fairbairn pass away in a major city in western Canada, located in the Lower Mainland region of British Columbia?",
+            "additional_info": "Vancouve is a major city in western Canada, located in the Lower Mainland region of British Columbia",
+            "label": "False"
+        },
+        {
+            "id": 1017,
+            "src": "Is the owner of Bundesautobahn 13 located a country in Central Europe, situated between the Baltic and North seas to the north?",
+            "additional_info": "Germany is a country in Central Europe, situated between the Baltic and North seas to the north.",
+            "label": "False"
+        },
+        {
+            "id": 1018,
+            "src": "Is the original language of Tank Knights Fortress widely spoken in South Korea?",
+            "additional_info": "Korean is widely spoken in South Korea.",
+            "label": "False"
+        },
+        {
+            "id": 1022,
+            "src": "Do they in Pully speak the language spoken in France?",
+            "additional_info": "French is the language widely spoken in France.",
+            "label": "False"
+        },
+        {
+            "id": 1023,
+            "src": "Is Garth Knox native to the capital of Ireland?",
+            "additional_info": "The capital of Ireland is Dublin.",
+            "label": "False"
+        },
+        {
+            "id": 1024,
+            "src": "Is the original language of De Wereld Draait Door commonly spoken in the Netherlands?",
+            "additional_info": "the language spoken in the Netherlands is Dutch.",
+            "label": "False"
+        },
+        {
+            "id": 1025,
+            "src": "Is the Co-operative Commonwealth Federation (Ontario Section) based in the capital city of the Canadian province of Ontario?",
+            "additional_info": "Toronto is the capital city of the Canadian province of Ontario.",
+            "label": "False"
+        },
+        {
+            "id": 1026,
+            "src": "Is Celilo Village located in the state capital of Salem?",
+            "additional_info": "Oregon is the state capital of Salem.",
+            "label": "False"
+        },
+        {
+            "id": 1027,
+            "src": "Does Doug Paisley hold a Canadian passport?",
+            "additional_info": "The Canadian hold a Canadian passport.",
+            "label": "False"
+        },
+        {
+            "id": 1028,
+            "src": "Does Steve Swell perform the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 1029,
+            "src": "Is the National Highway 45 in a country in South Asia?",
+            "additional_info": "India is a country in South Asia.",
+            "label": "False"
+        },
+        {
+            "id": 1033,
+            "src": " Does William W. Hallo write in the official language of United Kingdom?",
+            "additional_info": "The official language of United Kingdom is English.",
+            "label": "False"
+        },
+        {
+            "id": 1034,
+            "src": "Is Jean-Louis Murat speak the mother tongue of Jean-Jacques Rousseau?",
+            "additional_info": "the mother tongue of Jean-Jacques Rousseau is French.",
+            "label": "False"
+        },
+        {
+            "id": 1035,
+            "src": "Is Cambrian Pottery known for its intricate designs and can it be found in a coastal city and the second-largest city of Wales?",
+            "additional_info": "Swansea is a coastal city and the second-largest city of Wales.",
+            "label": "False"
+        },
+        {
+            "id": 1036,
+            "src": "Did Charles James Fox work in the capital city of the United Kingdom?",
+            "additional_info": "The capital city of the United Kingdom is London.",
+            "label": "False"
+        },
+        {
+            "id": 1038,
+            "src": "Does Zaire and France use the same official language?",
+            "additional_info": "The official language of France is French.",
+            "label": "False"
+        },
+        {
+            "id": 1039,
+            "src": "Does Pori Jazz play the music originated from African American communities?",
+            "additional_info": "Jazz is a music genre that originated from African American communities.",
+            "label": "False"
+        },
+        {
+            "id": 1042,
+            "src": "Is Digital Eel based in a city located in Washington?",
+            "additional_info": "Seattle is in a city located in Washington.",
+            "label": "False"
+        },
+        {
+            "id": 1046,
+            "src": "Is Guadalquivir located the same continent as Germany?",
+            "additional_info": "German locates in Europe.",
+            "label": "False"
+        },
+        {
+            "id": 1048,
+            "src": "Does the original language of The Irish Times the official language in England?",
+            "additional_info": "The official language in England is English.",
+            "label": "False"
+        },
+        {
+            "id": 1052,
+            "src": "Does Aleksejs Saramotins speak the official language of Latvia?",
+            "additional_info": "Latvia is the official language of Latvia.",
+            "label": "False"
+        },
+        {
+            "id": 1056,
+            "src": "Is origin of The Starlost the country that uses the maple leaf flag?",
+            "additional_info": "Canada is a country uses the maple leaf flag.",
+            "label": "False"
+        },
+        {
+            "id": 1059,
+            "src": "Does Giovanni Battista Grassi find employment in the capital of Italy?",
+            "additional_info": "the capital of Italy is Rome.",
+            "label": "False"
+        }
+    ]
+}
